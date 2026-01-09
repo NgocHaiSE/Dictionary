@@ -82,7 +82,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onFinish }) => {
                 <View style={styles.divider} />
                 <Text style={styles.appSubtitle}>Từ điển ngôn ngữ các dân tộc</Text>
                 <Text style={styles.langList}>Việt • Tày • Mông • Nùng • Dao</Text>
-                <Text style={styles.langList}>LoLo • Sán chí • Sán chay • Sán dìu</Text>
+                <Text style={styles.langList}>LoLo • Sán chỉ • Sán chay • Sán dìu</Text>
             </Animated.View>
 
             {/* Bottom decoration */}

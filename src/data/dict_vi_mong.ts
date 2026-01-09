@@ -1,7 +1,7 @@
 import { Entry } from '../types';
 
 // Dictionary: Việt - Mông
-// Generated: 2025-12-16T17:29:20.759Z
+// Generated: 2025-12-20T16:18:22.458Z
 // Total entries: 198
 
 export const DICT_VI_MONG: Entry[] = [
@@ -222,7 +222,7 @@ export const DICT_VI_MONG: Entry[] = [
       "mong": "Rau"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 27,
@@ -231,7 +231,7 @@ export const DICT_VI_MONG: Entry[] = [
       "mong": "Xya"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 28,
@@ -240,7 +240,7 @@ export const DICT_VI_MONG: Entry[] = [
       "mong": "Yim"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 29,
@@ -249,7 +249,7 @@ export const DICT_VI_MONG: Entry[] = [
       "mong": "Cuaj"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 30,
@@ -257,7 +257,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Mười",
       "mong": "Kaum"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 31,
@@ -265,7 +266,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Trăm",
       "mong": "Pua"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 32,
@@ -273,7 +275,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Nghìn",
       "mong": "Txhiab"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 1000."
   },
   {
     "id": 33,
@@ -429,7 +432,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Ngày",
       "mong": "Hnub"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 52,
@@ -437,7 +441,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Đêm",
       "mong": "Hmo"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 53,
@@ -520,7 +525,8 @@ export const DICT_VI_MONG: Entry[] = [
       "vi": "Sông/Suối",
       "mong": "Dej"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Cũng là từ chỉ \"nước\"."
   },
   {
     "id": 63,

@@ -1,7 +1,7 @@
 import { Entry } from '../types';
 
 // Dictionary: Việt - Lô Lô
-// Generated: 2025-12-16T17:29:20.760Z
+// Generated: 2025-12-20T16:18:22.459Z
 // Total entries: 200
 
 export const DICT_VI_LOLO: Entry[] = [
@@ -204,7 +204,7 @@ export const DICT_VI_LOLO: Entry[] = [
       "lolo": "Khồ"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 25,
@@ -213,7 +213,7 @@ export const DICT_VI_LOLO: Entry[] = [
       "lolo": "Shi"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 26,
@@ -222,7 +222,7 @@ export const DICT_VI_LOLO: Entry[] = [
       "lolo": "Hía"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 27,
@@ -231,7 +231,7 @@ export const DICT_VI_LOLO: Entry[] = [
       "lolo": "Cù"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 28,
@@ -239,7 +239,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Mười",
       "lolo": "Chí"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 29,
@@ -247,7 +248,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Trăm",
       "lolo": "Pạ"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 30,
@@ -255,7 +257,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Nghìn",
       "lolo": "Chi"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 1000."
   },
   {
     "id": 31,
@@ -411,7 +414,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Ngày",
       "lolo": "Lờ"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 50,
@@ -419,7 +423,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Đêm",
       "lolo": "Khò"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 51,
@@ -501,7 +506,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Sông/Suối",
       "lolo": "Khua"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Cũng là từ chỉ \"nước\"."
   },
   {
     "id": 61,
@@ -517,7 +523,8 @@ export const DICT_VI_LOLO: Entry[] = [
       "vi": "Trời/Thiên",
       "lolo": "Thin"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Chỉ bầu trời, hoặc Trời."
   },
   {
     "id": 63,

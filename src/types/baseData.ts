@@ -1,8 +1,8 @@
 import { Entry } from './index';
 
 // Auto-generated BASE_ENTRIES from Excel files
-// Source: doc/*.xlsx (8 files, 375 entries)
-// Generated: 2025-12-16T17:29:20.767Z
+// Source: doc/*.xlsx (8 files, 406 entries)
+// Generated: 2025-12-20T16:18:22.467Z
 
 export const BASE_ENTRIES: Entry[] = [
   {
@@ -25,6 +25,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tụ-cả",
       "mong": "Ua tsaug",
       "sanchay": "Mỏi",
+      "sanchi": "Xi ngài",
       "sandiu": "Gia ừ",
       "tay": "Tả ơn"
     },
@@ -39,6 +40,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nồ-lờ",
       "mong": "Thov txim",
       "sanchay": "Nói cồ",
+      "sanchi": "Tối bùn",
       "sandiu": "Tối bùn"
     },
     "lemmaAudios": {}
@@ -51,6 +53,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lờ/Nố",
       "mong": "Muaj",
       "sanchay": "Mỳ",
+      "sanchi": "Yểu",
       "sandiu": "Yểu",
       "tay": "Có"
     },
@@ -65,6 +68,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mò",
       "mong": "Tsis",
       "sanchay": "Mụ",
+      "sanchi": "Mộ",
       "sandiu": "Mụ",
       "tay": "Bo"
     },
@@ -79,6 +83,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mi",
       "mong": "Npe",
       "sanchay": "Chá miến",
+      "sanchi": "Miến",
       "sandiu": "Miến"
     },
     "lemmaAudios": {}
@@ -91,6 +96,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nga/Đa",
       "mong": "Koj",
       "sanchay": "Mí",
+      "sanchi": "Nguồi/Mì",
       "sandiu": "Nguồi/Mì",
       "tay": "Mẩy"
     },
@@ -105,6 +111,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ngò",
       "mong": "Kuv",
       "sanchay": "Ngoại",
+      "sanchi": "Ngái/Ngoại",
       "sandiu": "Ngái",
       "tay": "Cau"
     },
@@ -119,6 +126,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Pua",
       "mong": "Peb",
       "sanchay": "Pua",
+      "sanchi": "Ân",
       "sandiu": "Ân"
     },
     "lemmaAudios": {}
@@ -130,7 +138,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Anh ấy/Cô ấy",
       "mong": "Nws",
       "sanchay": "Ká",
-      "sandiu": "Khỉ"
+      "sanchi": "** Khỉ**",
+      "sandiu": "Khỉ",
+      "nung": "Khao"
     },
     "lemmaAudios": {},
     "notes": "Đại từ ngôi thứ ba số ít."
@@ -143,6 +153,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A bò",
       "mong": "Txiv",
       "sanchay": "Po",
+      "sanchi": "Pa",
       "sandiu": "Pa"
     },
     "lemmaAudios": {}
@@ -155,6 +166,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A mờ",
       "mong": "Niam",
       "sanchay": "Ma",
+      "sanchi": "Ma",
       "sandiu": "Ma",
       "tay": "Mẻ"
     },
@@ -168,6 +180,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A chà",
       "mong": "Yawg",
       "sanchay": "Dù",
+      "sanchi": "Dù",
       "sandiu": "Dù"
     },
     "lemmaAudios": {}
@@ -180,6 +193,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A chớ",
       "mong": "Pog",
       "sanchay": "Pu",
+      "sanchi": "Nang",
       "sandiu": "Nang"
     },
     "lemmaAudios": {}
@@ -192,6 +206,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A chả",
       "mong": "Tij laug",
       "sanchay": "Khê",
+      "sanchi": "Khê",
       "sandiu": "Khê"
     },
     "lemmaAudios": {}
@@ -204,6 +219,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "A chư",
       "mong": "Niam laus",
       "sanchay": "Zi",
+      "sanchi": "Zi",
       "sandiu": "Zi"
     },
     "lemmaAudios": {}
@@ -216,6 +232,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Đì",
       "mong": "Kw",
       "sanchay": "Nỏng đực",
+      "sanchi": "Tít",
       "sandiu": "Tít"
     },
     "lemmaAudios": {}
@@ -228,6 +245,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mề",
       "mong": "Muam",
       "sanchay": "Nỏng mệ",
+      "sanchi": "Mụi",
       "sandiu": "Mụi"
     },
     "lemmaAudios": {}
@@ -240,7 +258,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mí",
       "mong": "Poj niam",
       "sanchay": "Mệ",
+      "sanchi": "Ché",
       "sandiu": "Ché",
+      "nung": "Mị",
       "tay": "Vợ"
     },
     "lemmaAudios": {},
@@ -254,7 +274,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ché",
       "mong": "Txiv neej",
       "sanchay": "Phu",
+      "sanchi": "Chiu",
       "sandiu": "Chiu",
+      "nung": "Phu",
       "tay": "Chồng"
     },
     "lemmaAudios": {},
@@ -268,6 +290,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dì",
       "mong": "Ib",
       "sanchay": "Ít",
+      "sanchi": "Ít",
       "sandiu": "Ít",
       "tay": "Nhất"
     },
@@ -281,6 +304,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nì",
       "mong": "Ob",
       "sanchay": "Nghi",
+      "sanchi": "Nghi",
       "sandiu": "Nghi",
       "tay": "Sloong"
     },
@@ -295,6 +319,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sờ",
       "mong": "Peb",
       "sanchay": "Sa",
+      "sanchi": "Sam",
       "sandiu": "Sam",
       "tay": "Slam"
     },
@@ -308,6 +333,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lù",
       "mong": "Pla",
       "sanchay": "Phú",
+      "sanchi": "Phú",
       "sandiu": "Phú",
       "tay": "Slí"
     },
@@ -321,6 +347,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ngu",
       "mong": "Tsib",
       "sanchay": "Nghĩa",
+      "sanchi": "Ngiểu",
       "sandiu": "Ngiểu",
       "tay": "Pi"
     },
@@ -334,11 +361,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khồ",
       "mong": "Rau",
       "sanchay": "Liễu",
+      "sanchi": "Liểu",
       "sandiu": "Liểu",
+      "nung": "Lók",
       "tay": "Sáu"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 27,
@@ -348,11 +377,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Shi",
       "mong": "Xya",
       "sanchay": "Chít",
+      "sanchi": "Chít",
       "sandiu": "Chít",
+      "nung": "Chết",
       "tay": "Bảy"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 28,
@@ -362,11 +393,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Hía",
       "mong": "Yim",
       "sanchay": "Pét",
+      "sanchi": "Pát",
       "sandiu": "Pát",
+      "nung": "Pát",
       "tay": "Tám"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 29,
@@ -376,11 +409,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cù",
       "mong": "Cuaj",
       "sanchay": "Cửu",
+      "sanchi": "Cửu",
       "sandiu": "Cửu",
+      "nung": "Cẩu",
       "tay": "Chín"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 30,
@@ -390,10 +425,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chí",
       "mong": "Kaum",
       "sanchay": "Síp",
+      "sanchi": "Síp",
       "sandiu": "Síp",
+      "nung": "Síp",
       "tay": "Chịp"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 31,
@@ -403,10 +441,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Pạ",
       "mong": "Pua",
       "sanchay": "Pà",
+      "sanchi": "Pát",
       "sandiu": "Pát",
+      "nung": "Hảy",
       "tay": "Pac"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 32,
@@ -416,9 +457,12 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chi",
       "mong": "Txhiab",
       "sanchay": "Chiên",
-      "sandiu": "Chiên"
+      "sanchi": "Chiên",
+      "sandiu": "Chiên",
+      "nung": "Pùn"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 1000."
   },
   {
     "id": 33,
@@ -428,6 +472,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Rơ",
       "mong": "Noj",
       "sanchay": "Khỉ",
+      "sanchi": "Khí",
       "sandiu": "Khí",
       "tay": "Kin"
     },
@@ -442,6 +487,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Su",
       "mong": "Haus",
       "sanchay": "Thăm",
+      "sanchi": "Hằm",
       "sandiu": "Hằm",
       "tay": "Ứng"
     },
@@ -455,6 +501,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Qoa",
       "mong": "Mus",
       "sanchay": "Phái",
+      "sanchi": "Khiểu",
       "sandiu": "Khiểu",
       "tay": "Pây"
     },
@@ -469,6 +516,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lòi",
       "mong": "Los",
       "sanchay": "Lái",
+      "sanchi": "Lái",
       "sandiu": "Lái"
     },
     "lemmaAudios": {}
@@ -481,6 +529,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Su",
       "mong": "Pw",
       "sanchay": "Suồi",
+      "sanchi": "Suồi",
       "sandiu": "Suồi",
       "tay": "Nòn"
     },
@@ -495,7 +544,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tò",
       "mong": "Ua",
       "sanchay": "Chu",
+      "sanchi": "Chu",
       "sandiu": "Chu",
+      "nung": "Dự/Dú",
       "tay": "Làm"
     },
     "lemmaAudios": {},
@@ -509,7 +560,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khoa",
       "mong": "Hais",
       "sanchay": "Khoá",
+      "sanchi": "Khoá",
       "sandiu": "Khoá",
+      "nung": "Ưn",
       "tay": "Phja"
     },
     "lemmaAudios": {}
@@ -522,7 +575,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nhía",
       "mong": "Mloog",
       "sanchay": "Nhía",
+      "sanchi": "Nhia",
       "sandiu": "Nhia",
+      "nung": "Khảy",
       "tay": "Nghe"
     },
     "lemmaAudios": {}
@@ -535,6 +590,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ní",
       "mong": "Pom",
       "sanchay": "Kỉn",
+      "sanchi": "Kỉn",
       "sandiu": "Kỉn"
     },
     "lemmaAudios": {}
@@ -547,7 +603,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Kỉ",
       "mong": "Yuav",
       "sanchay": "Ma",
+      "sanchi": "Ma",
       "sandiu": "Ma",
+      "nung": "Sú",
       "tay": "Mua"
     },
     "lemmaAudios": {}
@@ -560,7 +618,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mại",
       "mong": "Muag",
       "sanchay": "Mại",
+      "sanchi": "Mại",
       "sandiu": "Mại",
+      "nung": "Khải",
       "tay": "Bán"
     },
     "lemmaAudios": {}
@@ -573,7 +633,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tí",
       "mong": "Luag",
       "sanchay": "Tíu",
-      "sandiu": "Tíu"
+      "sanchi": "Tíu",
+      "sandiu": "Tíu",
+      "nung": "Ái"
     },
     "lemmaAudios": {}
   },
@@ -585,7 +647,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khà",
       "mong": "Quaj",
       "sanchay": "Khúc",
+      "sanchi": "Khúc",
       "sandiu": "Khúc",
+      "nung": "Hầy",
       "tay": "Hảy"
     },
     "lemmaAudios": {}
@@ -598,6 +662,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mù",
       "mong": "Nug",
       "sanchay": "Mùn",
+      "sanchi": "Mùn",
       "sandiu": "Mùn"
     },
     "lemmaAudios": {}
@@ -610,6 +675,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dắc",
       "mong": "Teb",
       "sanchay": "Phúc",
+      "sanchi": "Phúc",
       "sandiu": "Phúc"
     },
     "lemmaAudios": {}
@@ -622,6 +688,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Bi",
       "mong": "Sau",
       "sanchay": "Té",
+      "sanchi": "Khe",
       "sandiu": "Khe"
     },
     "lemmaAudios": {}
@@ -634,7 +701,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Hô",
       "mong": "Kawm",
       "sanchay": "Học",
-      "sandiu": "Học"
+      "sanchi": "Học",
+      "sandiu": "Học",
+      "nung": "Há"
     },
     "lemmaAudios": {}
   },
@@ -646,6 +715,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phạ",
       "mong": "Paub",
       "sanchay": "Si",
+      "sanchi": "Si",
       "sandiu": "Si",
       "tay": "Slấc"
     },
@@ -659,10 +729,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lờ",
       "mong": "Hnub",
       "sanchay": "Nhịt",
+      "sanchi": "Nhịt",
       "sandiu": "Nhịt",
+      "nung": "Lị",
       "tay": "Hoằn"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 52,
@@ -672,10 +745,13 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khò",
       "mong": "Hmo",
       "sanchay": "Man",
+      "sanchi": "Man",
       "sandiu": "Man",
+      "nung": "Khăn",
       "tay": "Đăm"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 53,
@@ -685,7 +761,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nư",
       "mong": "Xyoo",
       "sanchay": "Niên",
-      "sandiu": "Niên"
+      "sanchi": "Niên",
+      "sandiu": "Niên",
+      "nung": "Pị"
     },
     "lemmaAudios": {}
   },
@@ -697,7 +775,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dùn cờ",
       "mong": "Nim no",
       "sanchay": "Chu thài",
+      "sanchi": "Khỉ chu",
       "sandiu": "Chu thài",
+      "nung": "Dả nị",
       "tay": "Cà này"
     },
     "lemmaAudios": {}
@@ -710,7 +790,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cờ nhị",
       "mong": "Hnub no",
       "sanchay": "Kim nhịt",
+      "sanchi": "Kim nhịt",
       "sandiu": "Kim nhịt",
+      "nung": "Lị nị",
       "tay": "Hoằn này"
     },
     "lemmaAudios": {}
@@ -723,7 +805,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mỉng nhị",
       "mong": "Tag kis",
       "sanchay": "Mìng nhịt",
-      "sandiu": "Mìng nhịt"
+      "sanchi": "Mìng nhịt",
+      "sandiu": "Mìng nhịt",
+      "nung": "Lị tỏi"
     },
     "lemmaAudios": {}
   },
@@ -735,7 +819,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chu nhị",
       "mong": "Nag hmo",
       "sanchay": "Chuá nhịt",
+      "sanchi": "Chúa nhịt",
       "sandiu": "Chuá nhịt",
+      "nung": "Lị mạn",
       "tay": "Hoằn kín"
     },
     "lemmaAudios": {}
@@ -748,7 +834,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Thẩu",
       "mong": "Sawv ntxov",
       "sanchay": "Tỏ",
+      "sanchi": "Tỏ",
       "sandiu": "Tỏ",
+      "nung": "Chỏm",
       "tay": "Slắng"
     },
     "lemmaAudios": {},
@@ -759,7 +847,8 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "dao": "Ên man/Ngoà",
       "vi": "Chiều",
-      "mong": "Hmo ntuj"
+      "mong": "Hmo ntuj",
+      "nung": "Nặng/Khẳm"
     },
     "lemmaAudios": {},
     "notes": "(Chỉ buổi tối)"
@@ -772,6 +861,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nả",
       "mong": "Tsev",
       "sanchay": "Chá",
+      "sanchi": "Chá",
       "sandiu": "Chá",
       "tay": "Slửa"
     },
@@ -785,7 +875,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phu",
       "mong": "Roob",
       "sanchay": "San",
+      "sanchi": "San",
       "sandiu": "San",
+      "nung": "Phung",
       "tay": "Đồi"
     },
     "lemmaAudios": {},
@@ -798,6 +890,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Nước (uống/lã)",
       "lolo": "Tủi",
       "sanchay": "Tủm",
+      "sanchi": "Suối",
       "sandiu": "Suối"
     },
     "lemmaAudios": {}
@@ -810,9 +903,12 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khua",
       "mong": "Dej",
       "sanchay": "Làu",
-      "sandiu": "Ho"
+      "sanchi": "Ho",
+      "sandiu": "Ho",
+      "nung": "Nặm"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Cũng là từ chỉ \"nước\"."
   },
   {
     "id": 64,
@@ -822,7 +918,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tha",
       "mong": "Av",
       "sanchay": "Tha",
+      "sanchi": "Tha",
       "sandiu": "Tha",
+      "nung": "Chìn/Tìn",
       "tay": "Đin"
     },
     "lemmaAudios": {}
@@ -834,9 +932,12 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Trời/Thiên",
       "lolo": "Thin",
       "sanchay": "Thiên",
-      "sandiu": "Thiên"
+      "sanchi": "Thiên",
+      "sandiu": "Thiên",
+      "nung": "Hạ"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Chỉ bầu trời, hoặc Trời."
   },
   {
     "id": 66,
@@ -846,6 +947,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lờ",
       "mong": "Loj",
       "sanchay": "Tài",
+      "sanchi": "Tái",
       "sandiu": "Tài"
     },
     "lemmaAudios": {}
@@ -858,7 +960,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nỏi",
       "mong": "Me",
       "sanchay": "Xèo",
+      "sanchi": "Xèo",
       "sandiu": "Xèo",
+      "nung": "Nòi",
       "tay": "Nho"
     },
     "lemmaAudios": {}
@@ -871,7 +975,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cò",
       "mong": "Siab",
       "sanchay": "Cò",
+      "sanchi": "Cò",
       "sandiu": "Cò",
+      "nung": "Tẳng",
       "tay": "Cao"
     },
     "lemmaAudios": {}
@@ -884,7 +990,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dì",
       "mong": "Qis",
       "sanchay": "Dì",
+      "sanchi": "Dì",
       "sandiu": "Dì",
+      "nung": "Sùn",
       "tay": "Thấp"
     },
     "lemmaAudios": {}
@@ -897,7 +1005,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "San",
       "mong": "Ntev",
       "sanchay": "Chẳng",
-      "sandiu": "Chảng"
+      "sanchi": "Chảng",
+      "sandiu": "Chảng",
+      "nung": "Pên"
     },
     "lemmaAudios": {}
   },
@@ -909,7 +1019,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tùi",
       "mong": "Luv",
       "sanchay": "Tùi",
-      "sandiu": "Tùi"
+      "sanchi": "Tùi",
+      "sandiu": "Tùi",
+      "nung": "Nẩu"
     },
     "lemmaAudios": {}
   },
@@ -921,7 +1033,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lạc",
       "mong": "Kub",
       "sanchay": "Nhệt",
-      "sandiu": "Nhệt"
+      "sanchi": "Nhệt",
+      "sandiu": "Nhệt",
+      "nung": "Hằn"
     },
     "lemmaAudios": {}
   },
@@ -933,7 +1047,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Han",
       "mong": "Txias",
       "sanchay": "Han",
+      "sanchi": "Han",
       "sandiu": "Han",
+      "nung": "Liêng",
       "tay": "Lạnh"
     },
     "lemmaAudios": {}
@@ -945,7 +1061,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Tốt/Hay",
       "lolo": "Màn",
       "sanchay": "Hó",
-      "sandiu": "Hó"
+      "sanchi": "Hó",
+      "sandiu": "Hó",
+      "nung": "É"
     },
     "lemmaAudios": {}
   },
@@ -957,7 +1075,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nỏ",
       "mong": "Phem",
       "sanchay": "Ngái",
+      "sanchi": "Ngái",
       "sandiu": "Ngái",
+      "nung": "Ú",
       "tay": "Xấu"
     },
     "lemmaAudios": {},
@@ -971,7 +1091,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chá",
       "mong": "Coob/Ntau",
       "sanchay": "Chá",
-      "sandiu": "Chá"
+      "sanchi": "Chá",
+      "sandiu": "Chá",
+      "nung": "Ké"
     },
     "lemmaAudios": {},
     "notes": "(Coob: người; Ntau: vật)"
@@ -984,7 +1106,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nỏi",
       "mong": "Tsawg",
       "sanchay": "Xíu",
-      "sandiu": "Xíu"
+      "sanchi": "Xíu",
+      "sandiu": "Xíu",
+      "nung": "Nòi hụ"
     },
     "lemmaAudios": {}
   },
@@ -996,7 +1120,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Zau",
       "mong": "Soj/Muaj zog",
       "sanchay": "Nón",
-      "sandiu": "Nón"
+      "sanchi": "Chong",
+      "sandiu": "Nón",
+      "nung": "Cán"
     },
     "lemmaAudios": {}
   },
@@ -1008,7 +1134,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Thẻo",
       "mong": "Tsis muaj zog",
       "sanchay": "Thẻo",
-      "sandiu": "Thẻo"
+      "sanchi": "Thẻo",
+      "sandiu": "Thẻo",
+      "nung": "Hỏi"
     },
     "lemmaAudios": {}
   },
@@ -1020,7 +1148,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "San",
       "mong": "Tshiab",
       "sanchay": "Sin",
-      "sandiu": "Sin"
+      "sanchi": "Sin",
+      "sandiu": "Sin",
+      "nung": "Mọi"
     },
     "lemmaAudios": {}
   },
@@ -1032,7 +1162,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Đầu",
       "mong": "Lub taub hau",
       "sanchay": "Thủ",
+      "sanchi": "Thủ",
       "sandiu": "Thủ",
+      "nung": "Hủ",
       "tay": "Lảu đầu"
     },
     "lemmaAudios": {}
@@ -1045,7 +1177,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nhắn",
       "mong": "Lub qhov muag",
       "sanchay": "Nhắn",
+      "sanchi": "Nhắn",
       "sandiu": "Nhắn",
+      "nung": "Tả",
       "tay": "Mắt"
     },
     "lemmaAudios": {},
@@ -1059,7 +1193,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dĩ",
       "mong": "Lub pob ntseg",
       "sanchay": "Nhĩ",
+      "sanchi": "Nhĩ",
       "sandiu": "Nhĩ",
+      "nung": "Cạ",
       "tay": "Tai"
     },
     "lemmaAudios": {}
@@ -1072,7 +1208,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khẩu",
       "mong": "Lub qhov ncauj",
       "sanchay": "Khẩu",
+      "sanchi": "Khẩu",
       "sandiu": "Khẩu",
+      "nung": "Khẩu",
       "tay": "Pác"
     },
     "lemmaAudios": {}
@@ -1085,7 +1223,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Kiên",
       "mong": "Tes",
       "sanchay": "Sẩu",
+      "sanchi": "Sẩu",
       "sandiu": "Sẩu",
+      "nung": "Mả",
       "tay": "Mừ"
     },
     "lemmaAudios": {}
@@ -1098,7 +1238,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cước",
       "mong": "Ko taw",
       "sanchay": "Cước",
+      "sanchi": "Cước",
       "sandiu": "Cước",
+      "nung": "Thọ",
       "tay": "Khả"
     },
     "lemmaAudios": {}
@@ -1111,7 +1253,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "To",
       "mong": "Plab",
       "sanchay": "Tô",
-      "sandiu": "Tô"
+      "sanchi": "Tố",
+      "sandiu": "Tô",
+      "nung": "Thổi"
     },
     "lemmaAudios": {}
   },
@@ -1123,7 +1267,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Hùi",
       "mong": "Ntshav",
       "sanchay": "Hùi",
-      "sandiu": "Hùi"
+      "sanchi": "Hùi",
+      "sandiu": "Hùi",
+      "nung": "Hượt"
     },
     "lemmaAudios": {}
   },
@@ -1135,7 +1281,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sỉn",
       "mong": "Siab",
       "sanchay": "Sỉn",
-      "sandiu": "Sỉn"
+      "sanchi": "Sỉn",
+      "sandiu": "Sỉn",
+      "nung": "Cón"
     },
     "lemmaAudios": {}
   },
@@ -1147,7 +1295,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ma tít?",
       "mong": "Dab tsi",
       "sanchay": "Ma?",
-      "sandiu": "Ma?"
+      "sanchi": "Ma?",
+      "sandiu": "Ma?",
+      "nung": "Pây?"
     },
     "lemmaAudios": {}
   },
@@ -1159,7 +1309,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mỉên?",
       "mong": "Qhov twg",
       "sanchay": "Mỉ sỉn?",
-      "sandiu": "Mỉ sỉn?"
+      "sanchi": "Mí sỉn?",
+      "sandiu": "Mỉ sỉn?",
+      "nung": "Hử?"
     },
     "lemmaAudios": {}
   },
@@ -1171,7 +1323,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Diêng mỉa?",
       "mong": "Vim li cas",
       "sanchay": "Nhằm ma?",
-      "sandiu": "Nhằm ma?"
+      "sanchi": "Nhầm ma?",
+      "sandiu": "Nhằm ma?",
+      "nung": "Nhỏ hò"
     },
     "lemmaAudios": {}
   },
@@ -1183,6 +1337,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cờ siên?",
       "mong": "Thaum twg",
       "sanchay": "Khỉ sỉn?",
+      "sanchi": "Khỉ sỉn?",
       "sandiu": "Khỉ sỉn?"
     },
     "lemmaAudios": {}
@@ -1195,7 +1350,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cùng?",
       "mong": "Li cas",
       "sanchay": "Ân mỉ?",
-      "sandiu": "Ân mỉ?"
+      "sanchi": "Ân mỉ?",
+      "sandiu": "Ân mỉ?",
+      "nung": "Dặm nà?"
     },
     "lemmaAudios": {}
   },
@@ -1207,6 +1364,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Niên",
       "mong": "Nov",
       "sanchay": "Niên",
+      "sanchi": "Niên",
       "sandiu": "Niên"
     },
     "lemmaAudios": {}
@@ -1219,6 +1377,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cơ",
       "mong": "Ko",
       "sanchay": "Khỉ",
+      "sanchi": "Khỉ",
       "sandiu": "Khỉ"
     },
     "lemmaAudios": {}
@@ -1231,6 +1390,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ên",
       "mong": "Auj",
       "sanchay": "Yểu/Hó",
+      "sanchi": "Yểu/Hó",
       "sandiu": "Yểu/Hó"
     },
     "lemmaAudios": {}
@@ -1260,7 +1420,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ên rùa",
       "mong": "Yog lawm",
       "sanchay": "Hó rùa",
-      "sandiu": "Hó rùa"
+      "sanchi": "Hó rùa",
+      "sandiu": "Hó rùa",
+      "nung": "É rèo"
     },
     "lemmaAudios": {}
   },
@@ -1272,7 +1434,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khâu",
       "mong": "Aub",
       "sanchay": "Khẩu",
-      "sandiu": "Khẩu"
+      "sanchi": "Khẩu",
+      "sandiu": "Khẩu",
+      "nung": "Ma"
     },
     "lemmaAudios": {}
   },
@@ -1284,7 +1448,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mêu",
       "mong": "Miv",
       "sanchay": "Mêu",
-      "sandiu": "Mêu"
+      "sanchi": "Mêu",
+      "sandiu": "Mêu",
+      "nung": "Meu"
     },
     "lemmaAudios": {}
   },
@@ -1296,7 +1462,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Du",
       "mong": "Npua",
       "sanchay": "Chư",
-      "sandiu": "Chư"
+      "sanchi": "Chư",
+      "sandiu": "Chư",
+      "nung": "Mó"
     },
     "lemmaAudios": {}
   },
@@ -1308,7 +1476,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cai",
       "mong": "Qaib",
       "sanchay": "Cai",
-      "sandiu": "Cai"
+      "sanchi": "Cai",
+      "sandiu": "Cai",
+      "nung": "Cại"
     },
     "lemmaAudios": {}
   },
@@ -1320,7 +1490,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Áp",
       "mong": "Os",
       "sanchay": "Áp",
-      "sandiu": "Áp"
+      "sanchi": "Áp",
+      "sandiu": "Áp",
+      "nung": "Pẹ"
     },
     "lemmaAudios": {}
   },
@@ -1332,7 +1504,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ngũi",
       "mong": "Tw",
       "sanchay": "Nhũi",
-      "sandiu": "Nhũi"
+      "sanchi": "Nhũi",
+      "sandiu": "Nhũi",
+      "nung": "Khỏi"
     },
     "lemmaAudios": {}
   },
@@ -1344,7 +1518,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ngàu",
       "mong": "Nyuj",
       "sanchay": "Ngàu",
-      "sandiu": "Ngàu"
+      "sanchi": "Ngàu",
+      "sandiu": "Ngàu",
+      "nung": "Ngỏi"
     },
     "lemmaAudios": {}
   },
@@ -1356,7 +1532,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nhú",
       "mong": "Ntses",
       "sanchay": "Nhũ",
-      "sandiu": "Nhũ"
+      "sanchi": "Nhũ",
+      "sandiu": "Nhũ",
+      "nung": "Pả"
     },
     "lemmaAudios": {}
   },
@@ -1368,7 +1546,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chìa",
       "mong": "Noog",
       "sanchay": "Tế",
-      "sandiu": "Tế"
+      "sanchi": "Tế",
+      "sandiu": "Tế",
+      "nung": "Chì"
     },
     "lemmaAudios": {}
   },
@@ -1380,7 +1560,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sù",
       "mong": "Nas",
       "sanchay": "Sù",
-      "sandiu": "Sù"
+      "sanchi": "Sù",
+      "sandiu": "Sù",
+      "nung": "Nhú"
     },
     "lemmaAudios": {}
   },
@@ -1392,7 +1574,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mả",
       "mong": "Nej",
       "sanchay": "Mả",
-      "sandiu": "Mả"
+      "sanchi": "Mả",
+      "sandiu": "Mả",
+      "nung": "Ma (âm hơi khác \"chó\")"
     },
     "lemmaAudios": {}
   },
@@ -1404,7 +1588,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dàng",
       "mong": "Tshis",
       "sanchay": "Dàng",
-      "sandiu": "Dàng"
+      "sanchi": "Dàng",
+      "sandiu": "Dàng",
+      "nung": "Pà"
     },
     "lemmaAudios": {}
   },
@@ -1416,7 +1602,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Thú",
       "mong": "Nab",
       "sanchay": "Si",
-      "sandiu": "Si"
+      "sanchi": "Si",
+      "sandiu": "Si",
+      "nung": "Ngụ"
     },
     "lemmaAudios": {}
   },
@@ -1428,7 +1616,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phù",
       "mong": "Tsov",
       "sanchay": "Phú",
-      "sandiu": "Phú"
+      "sanchi": "Phú",
+      "sandiu": "Phú",
+      "nung": "Kả"
     },
     "lemmaAudios": {}
   },
@@ -1448,7 +1638,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phăn",
       "mong": "Zib",
       "sanchay": "Phùng",
-      "sandiu": "Phùng"
+      "sanchi": "Phùng",
+      "sandiu": "Phùng",
+      "nung": "Nhăn"
     },
     "lemmaAudios": {}
   },
@@ -1460,7 +1652,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Ma",
       "mong": "Pua tshav",
       "sanchay": "Má",
-      "sandiu": "Má"
+      "sanchi": "Má",
+      "sandiu": "Má",
+      "nung": "Mọt"
     },
     "lemmaAudios": {}
   },
@@ -1472,7 +1666,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Bàng",
       "mong": "Yoov",
       "sanchay": "Vàng",
-      "sandiu": "Vàng"
+      "sanchi": "Vàng",
+      "sandiu": "Vàng",
+      "nung": "Dặm"
     },
     "lemmaAudios": {}
   },
@@ -1484,7 +1680,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cai nàm",
       "mong": "Qe",
       "sanchay": "Cai nặm",
+      "sanchi": "Cai nặm",
       "sandiu": "Cai nặm",
+      "nung": "Khỏi",
       "tay": "Trứng"
     },
     "lemmaAudios": {}
@@ -1496,6 +1694,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Lông/Tóc",
       "lolo": "Má",
       "sanchay": "Mụi",
+      "sanchi": "Mụi",
       "sandiu": "Mụi"
     },
     "lemmaAudios": {}
@@ -1508,7 +1707,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mẩy",
       "mong": "Mov",
       "sanchay": "Mảy",
-      "sandiu": "Mảy"
+      "sanchi": "Mảy",
+      "sandiu": "Mảy",
+      "nung": "Khảu"
     },
     "lemmaAudios": {}
   },
@@ -1520,7 +1721,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phản",
       "mong": "Mov nplej",
       "sanchay": "Phản",
+      "sanchi": "Phản",
       "sandiu": "Phản",
+      "nung": "Khảu chả",
       "tay": "Cỏm"
     },
     "lemmaAudios": {}
@@ -1533,7 +1736,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nhú",
       "mong": "Nqaij",
       "sanchay": "Nhục",
+      "sanchi": "Nhục",
       "sandiu": "Nhục",
+      "nung": "Sít",
       "tay": "Slảc"
     },
     "lemmaAudios": {}
@@ -1546,7 +1751,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Hãm",
       "mong": "Zaub",
       "sanchay": "Cha",
+      "sanchi": "Cha",
       "sandiu": "Cha",
+      "nung": "Hặm",
       "tay": "Pác"
     },
     "lemmaAudios": {}
@@ -1558,7 +1765,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Canh/Súp",
       "mong": "Kua zaub",
       "sanchay": "Thang",
-      "sandiu": "Thang"
+      "sanchi": "Thang",
+      "sandiu": "Thang",
+      "nung": "Cẻng"
     },
     "lemmaAudios": {}
   },
@@ -1570,7 +1779,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dàn",
       "mong": "Ntsev",
       "sanchay": "Dìm",
+      "sanchi": "Dìm",
       "sandiu": "Dìm",
+      "nung": "Kẹ",
       "tay": "Muối"
     },
     "lemmaAudios": {}
@@ -1583,7 +1794,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Thần",
       "mong": "Kev",
       "sanchay": "Thàng",
+      "sanchi": "Thàng",
       "sandiu": "Thàng",
+      "nung": "Hòm",
       "tay": "Đường"
     },
     "lemmaAudios": {}
@@ -1596,7 +1809,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Làu",
       "mong": "Cawv",
       "sanchay": "Làu",
-      "sandiu": "Làu"
+      "sanchi": "Làu",
+      "sandiu": "Làu",
+      "nung": "Làu"
     },
     "lemmaAudios": {}
   },
@@ -1608,6 +1823,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Thim",
       "mong": "Qab zib",
       "sanchay": "Thím",
+      "sanchi": "Thím",
       "sandiu": "Thím"
     },
     "lemmaAudios": {}
@@ -1620,6 +1836,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Lạc",
       "mong": "Ntse",
       "sanchay": "Lạc",
+      "sanchi": "Lạc",
       "sandiu": "Lạc"
     },
     "lemmaAudios": {}
@@ -1632,6 +1849,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Âu",
       "mong": "Qaub",
       "sanchay": "Âu",
+      "sanchi": "Âu",
       "sandiu": "Âu"
     },
     "lemmaAudios": {}
@@ -1644,6 +1862,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Kù",
       "mong": "Iab",
       "sanchay": "Khủ",
+      "sanchi": "Khủ",
       "sandiu": "Khủ"
     },
     "lemmaAudios": {}
@@ -1655,6 +1874,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ngon",
       "lolo": "Màn rơ",
       "sanchay": "Hó khỉ",
+      "sanchi": "Hó khí",
       "sandiu": "Hó khí"
     },
     "lemmaAudios": {},
@@ -1667,7 +1887,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "No",
       "lolo": "Pùa",
       "sanchay": "Pùa",
+      "sanchi": "Pùa",
       "sandiu": "Pùa",
+      "nung": "Ỉn",
       "tay": "No"
     },
     "lemmaAudios": {}
@@ -1679,7 +1901,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Đói",
       "lolo": "Lạn",
       "sanchay": "Ám tô",
+      "sanchi": "Ám tô",
       "sandiu": "Ám tô",
+      "nung": "Hò",
       "tay": "Đói"
     },
     "lemmaAudios": {}
@@ -1692,7 +1916,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chăn",
       "mong": "Nyiaj",
       "sanchay": "Chăn",
-      "sandiu": "Chăn"
+      "sanchi": "Chăn",
+      "sandiu": "Chăn",
+      "nung": "Chăn"
     },
     "lemmaAudios": {}
   },
@@ -1704,7 +1930,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Pí",
       "mong": "Riam",
       "sanchay": "Tò",
+      "sanchi": "Tò",
       "sandiu": "Tò",
+      "nung": "Pí",
       "tay": "Pja"
     },
     "lemmaAudios": {}
@@ -1716,6 +1944,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Cuốc",
       "lolo": "Khư",
       "sanchay": "Khứ",
+      "sanchi": "Khứ",
       "sandiu": "Khứ"
     },
     "lemmaAudios": {}
@@ -1727,6 +1956,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Rìu",
       "lolo": "Phu",
       "sanchay": "Phú",
+      "sanchi": "Phú",
       "sandiu": "Phú"
     },
     "lemmaAudios": {}
@@ -1739,7 +1969,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Bàng",
       "mong": "Txaj",
       "sanchay": "Chàng",
+      "sanchi": "Chàng",
       "sandiu": "Chàng",
+      "nung": "Bỏn",
       "tay": "Giường"
     },
     "lemmaAudios": {}
@@ -1751,7 +1983,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ghế",
       "lolo": "Cai",
       "sanchay": "Cai",
+      "sanchi": "Cai",
       "sandiu": "Cai",
+      "nung": "Cạ",
       "tay": "Ghế"
     },
     "lemmaAudios": {}
@@ -1763,7 +1997,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Bàn",
       "lolo": "Cho",
       "sanchay": "Cho",
+      "sanchi": "Cho",
       "sandiu": "Cho",
+      "nung": "Tà",
       "tay": "Bàn"
     },
     "lemmaAudios": {}
@@ -1776,7 +2012,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chắn",
       "mong": "Phaj",
       "sanchay": "Chắn",
-      "sandiu": "Chắn"
+      "sanchi": "Chắn",
+      "sandiu": "Chắn",
+      "nung": "Chắn"
     },
     "lemmaAudios": {}
   },
@@ -1788,7 +2026,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Pũ",
       "mong": "Diav",
       "sanchay": "Tư",
-      "sandiu": "Tư"
+      "sanchi": "Tư",
+      "sandiu": "Tư",
+      "nung": "Chám"
     },
     "lemmaAudios": {}
   },
@@ -1800,7 +2040,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khảu",
       "mong": "Chais",
       "sanchay": "Khảu",
-      "sandiu": "Khảu"
+      "sanchi": "Khảu",
+      "sandiu": "Khảu",
+      "nung": "Khảu"
     },
     "lemmaAudios": {}
   },
@@ -1812,7 +2054,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Phú",
       "mong": "Ris",
       "sanchay": "Phú",
+      "sanchi": "Phú",
       "sandiu": "Phú",
+      "nung": "Khảu",
       "tay": "Quần"
     },
     "lemmaAudios": {}
@@ -1825,7 +2069,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sửa",
       "mong": "Tsho",
       "sanchay": "Sửa",
+      "sanchi": "Sửa",
       "sandiu": "Sửa",
+      "nung": "Sửa",
       "tay": "Áo"
     },
     "lemmaAudios": {}
@@ -1838,7 +2084,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Hài",
       "mong": "Khau",
       "sanchay": "Hài",
-      "sandiu": "Hài"
+      "sanchi": "Hài",
+      "sandiu": "Hài",
+      "nung": "Hày"
     },
     "lemmaAudios": {}
   },
@@ -1850,7 +2098,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sì",
       "mong": "Phau ntawv",
       "sanchay": "Sư",
-      "sandiu": "Sư"
+      "sanchi": "Sư",
+      "sandiu": "Sư",
+      "nung": "Búng"
     },
     "lemmaAudios": {}
   },
@@ -1862,7 +2112,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Chụ",
       "mong": "Paus",
       "sanchay": "Pát",
-      "sandiu": "Pát"
+      "sanchi": "Pát",
+      "sandiu": "Pát",
+      "nung": "Khỏi"
     },
     "lemmaAudios": {}
   },
@@ -1874,7 +2126,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sịu tủi",
       "mong": "Da dej",
       "sanchay": "Sịu tủm",
-      "sandiu": "Sịu suối"
+      "sanchi": "Sịu tủi",
+      "sandiu": "Sịu suối",
+      "nung": "Áp nặm"
     },
     "lemmaAudios": {}
   },
@@ -1886,7 +2140,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Sịu",
       "mong": "Ntxhua",
       "sanchay": "Sịu",
-      "sandiu": "Sịu"
+      "sanchi": "Sịu",
+      "sandiu": "Sịu",
+      "nung": "Chặt"
     },
     "lemmaAudios": {}
   },
@@ -1897,7 +2153,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Hát",
       "lolo": "Khua",
       "sanchay": "Khua",
+      "sanchi": "Khua",
       "sandiu": "Khua",
+      "nung": "Dặn",
       "tay": "Hát"
     },
     "lemmaAudios": {},
@@ -1920,6 +2178,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Tò phản",
       "mong": "Ua noj",
       "sanchay": "Chu phản",
+      "sanchi": "Chu phản",
       "sandiu": "Chu phản"
     },
     "lemmaAudios": {}
@@ -1931,6 +2190,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Làm ruộng",
       "lolo": "Tò nẳng",
       "sanchay": "Chu thùa",
+      "sanchi": "Chu thùa",
       "sandiu": "Chu thùa"
     },
     "lemmaAudios": {}
@@ -1940,7 +2200,8 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "dao": "Cắm",
       "vi": "Cấy (Lúa)",
-      "lolo": "Cắm"
+      "lolo": "Cắm",
+      "nung": "Đam"
     },
     "lemmaAudios": {}
   },
@@ -1949,7 +2210,8 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "dao": "Cù",
       "vi": "Cày",
-      "lolo": "Cù"
+      "lolo": "Cù",
+      "nung": "Khỏi"
     },
     "lemmaAudios": {}
   },
@@ -1958,7 +2220,8 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "dao": "Hạu",
       "vi": "Giúp đỡ",
-      "lolo": "Hạu"
+      "lolo": "Hạu",
+      "nung": "Hảy"
     },
     "lemmaAudios": {}
   },
@@ -1977,6 +2240,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ở trên",
       "lolo": "Náng thâm",
       "sanchay": "Náng thâm",
+      "sanchi": "Náng thâm",
       "sandiu": "Náng thâm"
     },
     "lemmaAudios": {}
@@ -1988,6 +2252,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ở dưới",
       "lolo": "Náng hạ",
       "sanchay": "Náng hạ",
+      "sanchi": "Náng hạ",
       "sandiu": "Náng hạ"
     },
     "lemmaAudios": {}
@@ -1999,6 +2264,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ở trong",
       "lolo": "Náng nai",
       "sanchay": "Náng nai",
+      "sanchi": "Náng nai",
       "sandiu": "Náng nai"
     },
     "lemmaAudios": {}
@@ -2010,6 +2276,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ở ngoài",
       "lolo": "Náng ngoa",
       "sanchay": "Náng ngoa",
+      "sanchi": "Náng ngoa",
       "sandiu": "Náng ngoa"
     },
     "lemmaAudios": {}
@@ -2021,7 +2288,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Gần",
       "lolo": "Can",
       "sanchay": "Can",
+      "sanchi": "Can",
       "sandiu": "Can",
+      "nung": "Căn",
       "tay": "Gần"
     },
     "lemmaAudios": {}
@@ -2033,7 +2302,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Xa",
       "lolo": "Hắn",
       "sanchay": "Hắn",
+      "sanchi": "Hắn",
       "sandiu": "Hắn",
+      "nung": "Hắn",
       "tay": "Xa"
     },
     "lemmaAudios": {}
@@ -2046,7 +2317,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khun",
       "mong": "Ceev",
       "sanchay": "Khoai",
-      "sandiu": "Khoai"
+      "sanchi": "Khoai",
+      "sandiu": "Khoai",
+      "nung": "Cẩu/Hỏ"
     },
     "lemmaAudios": {}
   },
@@ -2058,7 +2331,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Man",
       "mong": "Maj mam",
       "sanchay": "Man",
-      "sandiu": "Man"
+      "sanchi": "Man",
+      "sandiu": "Man",
+      "nung": "Chắng"
     },
     "lemmaAudios": {}
   },
@@ -2070,7 +2345,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nhắn",
       "mong": "Nyaj",
       "sanchay": "Nhắn",
-      "sandiu": "Nhắn"
+      "sanchi": "Nhắn",
+      "sandiu": "Nhắn",
+      "nung": "Nhắm"
     },
     "lemmaAudios": {}
   },
@@ -2082,7 +2359,9 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Dịu",
       "mong": "Yooj yim",
       "sanchay": "Dịu",
-      "sandiu": "Dịu"
+      "sanchi": "Dịu",
+      "sandiu": "Dịu",
+      "nung": "Lảy"
     },
     "lemmaAudios": {}
   },
@@ -2093,7 +2372,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Đỏ",
       "lolo": "Khửng",
       "sanchay": "Khửng",
+      "sanchi": "Khửng",
       "sandiu": "Khửng",
+      "nung": "Păn",
       "tay": "Đeng"
     },
     "lemmaAudios": {}
@@ -2105,7 +2386,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Xanh (Lá)",
       "lolo": "Kho",
       "sanchay": "Khăng",
-      "sandiu": "Khăng"
+      "sanchi": "Khăng",
+      "sandiu": "Khăng",
+      "nung": "Khàm"
     },
     "lemmaAudios": {}
   },
@@ -2116,7 +2399,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Vàng",
       "lolo": "Ưn",
       "sanchay": "Ưn",
+      "sanchi": "Ưn",
       "sandiu": "Ưn",
+      "nung": "Ưn",
       "tay": "Lường"
     },
     "lemmaAudios": {}
@@ -2128,7 +2413,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Trắng",
       "lolo": "Khàu",
       "sanchay": "Pát",
+      "sanchi": "Pát",
       "sandiu": "Pát",
+      "nung": "Khàu",
       "tay": "Bạc"
     },
     "lemmaAudios": {}
@@ -2140,7 +2427,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Đen",
       "lolo": "Hắc",
       "sanchay": "Hắc",
+      "sanchi": "Hắc",
       "sandiu": "Hắc",
+      "nung": "Hắm",
       "tay": "Đăm"
     },
     "lemmaAudios": {}
@@ -2152,7 +2441,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Sạch",
       "lolo": "Pún",
       "sanchay": "Kính",
+      "sanchi": "Kính",
       "sandiu": "Kính",
+      "nung": "Pùn",
       "tay": "Slâư"
     },
     "lemmaAudios": {}
@@ -2164,7 +2455,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Bẩn",
       "lolo": "Dủ",
       "sanchay": "Ân",
-      "sandiu": "Ân"
+      "sanchi": "Ân",
+      "sandiu": "Ân",
+      "nung": "Cảu"
     },
     "lemmaAudios": {}
   },
@@ -2184,6 +2477,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khửng sỉn",
       "mong": "Zoo siab",
       "sanchay": "Khửng sỉn",
+      "sanchi": "Khửng sỉn",
       "sandiu": "Khửng sỉn"
     },
     "lemmaAudios": {}
@@ -2196,6 +2490,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Cú sỉn",
       "mong": "Tu siab",
       "sanchay": "Cú sỉn",
+      "sanchi": "Cú sỉn",
       "sandiu": "Cú sỉn",
       "tay": "Buồn"
     },
@@ -2210,6 +2505,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Nga qoa mỉên?",
       "mong": "Koj mus qhov twg?",
       "sanchay": "Mí phái mỉ sỉn?",
+      "sanchi": "Mì khiểu mỉ sỉn?",
       "sandiu": "Mì khiểu mỉ sỉn?"
     },
     "lemmaAudios": {}
@@ -2232,6 +2528,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Rơ phản qoa",
       "mong": "Noj mov",
       "sanchay": "Khỉ phản",
+      "sanchi": "Khí phản",
       "sandiu": "Khí phản"
     },
     "lemmaAudios": {}
@@ -2243,6 +2540,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Uống nước đi",
       "lolo": "Su tủi qoa",
       "sanchay": "Thăm tủm",
+      "sanchi": "Hằm suối",
       "sandiu": "Hằm suối"
     },
     "lemmaAudios": {}
@@ -2310,6 +2608,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Mạn ngoa",
       "mong": "Caw tuaj",
       "sanchay": "Mạn ngoa",
+      "sanchi": "Mạn ngoa",
       "sandiu": "Mạn ngoa"
     },
     "lemmaAudios": {}
@@ -2356,6 +2655,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Bệnh/Ốm",
       "lolo": "Phỉ",
       "sanchay": "Phỉ",
+      "sanchi": "Phỉ",
       "sandiu": "Phỉ"
     },
     "lemmaAudios": {}
@@ -2367,6 +2667,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Thuốc",
       "lolo": "Dộc",
       "sanchay": "Dộc",
+      "sanchi": "Dộc",
       "sandiu": "Dộc"
     },
     "lemmaAudios": {}
@@ -2385,7 +2686,9 @@ export const BASE_ENTRIES: Entry[] = [
       "dao": "Pu Khỉnh",
       "vi": "Người Việt (Kinh)",
       "sanchay": "Pu Khỉnh",
-      "sandiu": "Pu Khỉnh"
+      "sanchi": "Pu Khỉnh",
+      "sandiu": "Pu Khỉnh",
+      "nung": "Pu Khỉnh"
     },
     "lemmaAudios": {}
   },
@@ -2421,6 +2724,7 @@ export const BASE_ENTRIES: Entry[] = [
       "lolo": "Khò",
       "vi": "Chiều/Tối",
       "sanchay": "Ên man",
+      "sanchi": "Ngàn",
       "sandiu": "Ên man"
     },
     "lemmaAudios": {}
@@ -2432,7 +2736,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Làng/Bản",
       "mong": "Zos",
       "sanchay": "Chái",
-      "sandiu": "Chái"
+      "sanchi": "Chái",
+      "sandiu": "Chái",
+      "nung": "Lạng"
     },
     "lemmaAudios": {}
   },
@@ -2443,7 +2749,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Chợ",
       "mong": "Khw",
       "sanchay": "Khỉ",
-      "sandiu": "Khỉ"
+      "sanchi": "Khỉ",
+      "sandiu": "Khỉ",
+      "nung": "Khát"
     },
     "lemmaAudios": {}
   },
@@ -2454,7 +2762,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Con voi",
       "mong": "Ntxhw",
       "sanchay": "Tương",
-      "sandiu": "Di"
+      "sanchi": "Di",
+      "sandiu": "Di",
+      "nung": "Sang"
     },
     "lemmaAudios": {}
   },
@@ -2463,7 +2773,8 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "lolo": "Khùa",
       "vi": "Con bướm",
-      "mong": "Npauj"
+      "mong": "Npauj",
+      "nung": "Mạ"
     },
     "lemmaAudios": {}
   },
@@ -2474,6 +2785,7 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Yêu/Thương",
       "mong": "Hlub",
       "sanchay": "Âi",
+      "sanchi": "Âi",
       "sandiu": "Âi"
     },
     "lemmaAudios": {}
@@ -2485,7 +2797,9 @@ export const BASE_ENTRIES: Entry[] = [
       "vi": "Ghét",
       "mong": "Ntxub",
       "sanchay": "Khủ",
+      "sanchi": "Khủ",
       "sandiu": "Khủ",
+      "nung": "Chỉ",
       "tay": "Ghét"
     },
     "lemmaAudios": {}
@@ -2602,6 +2916,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Cua",
       "vi": "Gió",
+      "nung": "Lùm",
       "tay": "Lồm"
     },
     "lemmaAudios": {}
@@ -2611,6 +2926,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Nag",
       "vi": "Mưa",
+      "nung": "Khô",
       "tay": "Fỏn"
     },
     "lemmaAudios": {}
@@ -2620,6 +2936,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Hluav taws",
       "vi": "Lửa",
+      "nung": "Phảy",
       "tay": "Fai"
     },
     "lemmaAudios": {}
@@ -2629,6 +2946,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Ntoo",
       "vi": "Cây",
+      "nung": "Mạy",
       "tay": "Mạy"
     },
     "lemmaAudios": {}
@@ -2655,6 +2973,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Peb",
       "vi": "Đá",
+      "nung": "Hịn",
       "tay": "Hin"
     },
     "lemmaAudios": {}
@@ -2679,7 +2998,8 @@ export const BASE_ENTRIES: Entry[] = [
     "id": 232,
     "translations": {
       "mong": "Kaum",
-      "vi": "Mũ/Nón"
+      "vi": "Mũ/Nón",
+      "nung": "Mủ"
     },
     "lemmaAudios": {}
   },
@@ -2687,7 +3007,8 @@ export const BASE_ENTRIES: Entry[] = [
     "id": 233,
     "translations": {
       "mong": "Txiab",
-      "vi": "Kéo"
+      "vi": "Kéo",
+      "nung": "Khăn"
     },
     "lemmaAudios": {}
   },
@@ -2760,6 +3081,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Zaum",
       "vi": "Ngồi",
+      "nung": "Tăm",
       "tay": "Ngồi"
     },
     "lemmaAudios": {}
@@ -2769,6 +3091,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Sawv",
       "vi": "Đứng",
+      "nung": "Khương",
       "tay": "Đứng"
     },
     "lemmaAudios": {}
@@ -2778,6 +3101,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "mong": "Khiav",
       "vi": "Chạy",
+      "nung": "Hảm",
       "tay": "Chạy"
     },
     "lemmaAudios": {}
@@ -2822,7 +3146,9 @@ export const BASE_ENTRIES: Entry[] = [
       "mong": "Kuv tsis paub",
       "vi": "Tôi không biết",
       "sanchay": "Ngoại mộ si",
-      "sandiu": "Ngái mộ si"
+      "sanchi": "Ngái mộ si",
+      "sandiu": "Ngái mộ si",
+      "nung": "Dạo mụ há"
     },
     "lemmaAudios": {}
   },
@@ -2832,6 +3158,7 @@ export const BASE_ENTRIES: Entry[] = [
       "mong": "Kuv tab tom mus tsev",
       "vi": "Tôi đang về nhà",
       "sanchay": "Ngoại phán lánh",
+      "sanchi": "Ngái phán lánh",
       "sandiu": "Ngái phán lánh"
     },
     "lemmaAudios": {}
@@ -2850,6 +3177,7 @@ export const BASE_ENTRIES: Entry[] = [
       "mong": "Peb pw kom zoo",
       "vi": "Chúc ngủ ngon",
       "sanchay": "Hó suồi",
+      "sanchi": "Hó suồi",
       "sandiu": "Hó suồi"
     },
     "lemmaAudios": {}
@@ -2876,7 +3204,9 @@ export const BASE_ENTRIES: Entry[] = [
       "mong": "Tsis yog",
       "vi": "Không phải",
       "sanchay": "Mụ sỉ",
-      "sandiu": "Mộ sỉ"
+      "sanchi": "Mộ sỉ",
+      "sandiu": "Mộ sỉ",
+      "nung": "Mụ hảy"
     },
     "lemmaAudios": {}
   },
@@ -2885,6 +3215,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Ân mỉ chu?",
       "vi": "Làm thế nào?",
+      "sanchi": "Ân mỉ chu?",
       "sandiu": "Ân mỉ chu?"
     },
     "lemmaAudios": {}
@@ -2894,6 +3225,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Tăm hạ",
       "vi": "Ngồi xuống",
+      "sanchi": "Tăm hạ",
       "sandiu": "Tăm hạ"
     },
     "lemmaAudios": {}
@@ -2903,6 +3235,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Tài mỏi",
       "vi": "Cảm ơn rất nhiều",
+      "sanchi": "Tài xi ngài",
       "sandiu": "Tài gia ừ"
     },
     "lemmaAudios": {}
@@ -2912,6 +3245,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Phán lánh rùa",
       "vi": "Về nhà thôi",
+      "sanchi": "Phán lánh rùa",
       "sandiu": "Phán lánh rùa"
     },
     "lemmaAudios": {}
@@ -2929,6 +3263,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Nậm Việt Nam",
       "vi": "Nước Việt Nam",
+      "sanchi": "Nậm Việt Nam",
       "sandiu": "Nậm Việt Nam"
     },
     "lemmaAudios": {}
@@ -2938,6 +3273,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Khỉ khoảnh",
       "vi": "Sức khỏe",
+      "sanchi": "Khỉ khoảnh",
       "sandiu": "Khỉ khoảnh"
     },
     "lemmaAudios": {}
@@ -2947,6 +3283,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Khỉ phước",
       "vi": "Hạnh phúc",
+      "sanchi": "Khỉ phước",
       "sandiu": "Khỉ phước",
       "tay": "Dung phúc"
     },
@@ -2957,7 +3294,9 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Nhịt",
       "vi": "Tháng",
+      "sanchi": "Nhịt",
       "sandiu": "Nhịt",
+      "nung": "Bược",
       "tay": "Bươn"
     },
     "lemmaAudios": {}
@@ -2967,6 +3306,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Ít xíu",
       "vi": "Một chút",
+      "sanchi": "Ít xíu",
       "sandiu": "Ít xíu"
     },
     "lemmaAudios": {}
@@ -2976,6 +3316,7 @@ export const BASE_ENTRIES: Entry[] = [
     "translations": {
       "sanchay": "Chu lẻo",
       "vi": "Xong rồi",
+      "sanchi": "Chu lẻo",
       "sandiu": "Chu lẻo"
     },
     "lemmaAudios": {}
@@ -2983,31 +3324,380 @@ export const BASE_ENTRIES: Entry[] = [
   {
     "id": 267,
     "translations": {
+      "sanchi": "Ngiên an",
+      "vi": "Chào (người lớn)"
+    },
+    "lemmaAudios": {},
+    "notes": "Nghĩa là \"Bình an\"."
+  },
+  {
+    "id": 268,
+    "translations": {
+      "sanchi": "Pu Sán Chỉ",
+      "vi": "Người Sán Chỉ"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 269,
+    "translations": {
       "sandiu": "Pu Sán Dìu",
       "vi": "Người Sán Dìu"
     },
     "lemmaAudios": {}
   },
   {
-    "id": 268,
+    "id": 270,
+    "translations": {
+      "vi": "Bao nhiêu",
+      "nung": "Mảy"
+    },
+    "lemmaAudios": {},
+    "notes": "Dùng để hỏi số lượng."
+  },
+  {
+    "id": 271,
+    "translations": {
+      "vi": "Hết/Không còn",
+      "nung": "Mù"
+    },
+    "lemmaAudios": {},
+    "notes": "Hoặc Hết rèo."
+  },
+  {
+    "id": 272,
+    "translations": {
+      "vi": "Trên",
+      "nung": "Lung",
+      "tay": "Nưa"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 273,
+    "translations": {
+      "vi": "Dưới",
+      "nung": "Tả",
+      "tay": "Tẩư"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 274,
+    "translations": {
+      "vi": "Trong",
+      "nung": "Nai",
+      "tay": "Trong"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 275,
+    "translations": {
+      "vi": "Ngoài",
+      "nung": "Nóc",
+      "tay": "Ngoài"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 276,
+    "translations": {
+      "vi": "Mũi",
+      "nung": "Nhụ",
+      "tay": "Mủ"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 277,
+    "translations": {
+      "vi": "Lưng",
+      "nung": "Khán"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 278,
+    "translations": {
+      "vi": "Răng",
+      "nung": "Khoát",
+      "tay": "Khản"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 279,
+    "translations": {
+      "vi": "Nhìn/Thấy",
+      "nung": "Hẩu"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 280,
+    "translations": {
+      "vi": "Dạy/Dạy bảo",
+      "nung": "Chảy"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 281,
+    "translations": {
+      "vi": "Đẹp",
+      "nung": "Nả/Xình",
+      "tay": "Đẹp"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 282,
+    "translations": {
+      "vi": "Xấu/Tồi",
+      "nung": "Chị"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 283,
+    "translations": {
+      "vi": "Tôi/Ta",
+      "nung": "Dạo"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 284,
+    "translations": {
+      "vi": "Bạn/Mày",
+      "nung": "Mày"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 285,
+    "translations": {
+      "vi": "Chúng tôi",
+      "nung": "Pua"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 286,
+    "translations": {
+      "vi": "Con ruồi",
+      "nung": "Lỏi"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 287,
+    "translations": {
+      "vi": "Ngon (Ăn)",
+      "nung": "É"
+    },
+    "lemmaAudios": {},
+    "notes": "Cũng là từ \"Tốt\"."
+  },
+  {
+    "id": 288,
+    "translations": {
+      "vi": "Kim",
+      "nung": "Mị"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 289,
+    "translations": {
+      "vi": "Xe",
+      "nung": "Hảy"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 290,
+    "translations": {
+      "vi": "Đồng ruộng",
+      "nung": "Nẳm"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 291,
+    "translations": {
+      "vi": "Khói",
+      "nung": "Khủm"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 292,
+    "translations": {
+      "vi": "Than",
+      "nung": "Phón"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 293,
+    "translations": {
+      "vi": "Cũ",
+      "nung": "Hù"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 294,
+    "translations": {
+      "vi": "Đầy",
+      "nung": "Chắn",
+      "tay": "Khuôp"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 295,
+    "translations": {
+      "vi": "Trống",
+      "nung": "Hạn"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 296,
+    "translations": {
+      "vi": "Nhảy múa",
+      "nung": "Pạc"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 297,
+    "translations": {
+      "vi": "Đánh/Đấm",
+      "nung": "Khỏi"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 298,
+    "translations": {
+      "vi": "Thương/Yêu",
+      "nung": "Lúc"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 299,
+    "translations": {
+      "vi": "Hiểu",
+      "nung": "Khảu hủ"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 300,
+    "translations": {
+      "vi": "Quên",
+      "nung": "Pên hỉ"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 301,
+    "translations": {
+      "vi": "Bạn bè",
+      "nung": "Pu lọi",
+      "tay": "Bẳn"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 302,
+    "translations": {
+      "vi": "Khách",
+      "nung": "Khảnh"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 303,
+    "translations": {
+      "vi": "Người Nùng",
+      "nung": "Pu nùng"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 304,
+    "translations": {
+      "vi": "Con trai",
+      "nung": "Lụk chá"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 305,
+    "translations": {
+      "vi": "Con gái",
+      "nung": "Lụk sái"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 306,
+    "translations": {
+      "vi": "Cháu",
+      "nung": "Lụk",
+      "tay": "Lảu cháu"
+    },
+    "lemmaAudios": {},
+    "notes": "Từ chỉ chung cháu/con."
+  },
+  {
+    "id": 307,
+    "translations": {
+      "vi": "Anh/Chị rể",
+      "nung": "Ché sỉnh"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 308,
+    "translations": {
+      "vi": "Em dâu",
+      "nung": "Nóng mè"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 309,
     "translations": {
       "vi": "Đi đâu đấy?",
+      "nung": "Hảy hử?",
       "tay": "Pây lảu mẩy?"
     },
     "lemmaAudios": {},
     "notes": "Câu chào phổ biến buổi sáng hoặc khi gặp nhau"
   },
   {
-    "id": 269,
+    "id": 310,
     "translations": {
       "vi": "Ăn cơm chưa?",
+      "nung": "Kiển khảu chả mảy?",
       "tay": "Kin cỏm chin bo?"
     },
     "lemmaAudios": {},
     "notes": "Câu chào hỏi thân mật hàng ngày"
   },
   {
-    "id": 270,
+    "id": 311,
     "translations": {
       "vi": "Có khỏe không?",
       "tay": "Mẩy khỏe bo?"
@@ -3016,7 +3706,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Hỏi thăm sức khỏe"
   },
   {
-    "id": 271,
+    "id": 312,
     "translations": {
       "vi": "Xin chào",
       "tay": "Slửa mần!"
@@ -3025,7 +3715,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Cách chào trang trọng hơn"
   },
   {
-    "id": 272,
+    "id": 313,
     "translations": {
       "vi": "Tạm biệt",
       "tay": "Pây kin!"
@@ -3034,7 +3724,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Nghĩa đen: \"Đi nhé!\""
   },
   {
-    "id": 273,
+    "id": 314,
     "translations": {
       "vi": "Người",
       "tay": "Cần"
@@ -3043,7 +3733,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Từ cơ bản chỉ con người"
   },
   {
-    "id": 274,
+    "id": 315,
     "translations": {
       "vi": "Bố",
       "tay": "Pỏ"
@@ -3051,7 +3741,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 275,
+    "id": 316,
     "translations": {
       "vi": "Anh",
       "tay": "Pì"
@@ -3060,7 +3750,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Anh trai"
   },
   {
-    "id": 276,
+    "id": 317,
     "translations": {
       "vi": "Chị",
       "tay": "Á"
@@ -3069,7 +3759,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Chị gái"
   },
   {
-    "id": 277,
+    "id": 318,
     "translations": {
       "vi": "Em",
       "tay": "Nọng"
@@ -3078,7 +3768,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Em trai/gái"
   },
   {
-    "id": 278,
+    "id": 319,
     "translations": {
       "vi": "Con",
       "tay": "Lảu"
@@ -3087,7 +3777,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Con cái"
   },
   {
-    "id": 279,
+    "id": 320,
     "translations": {
       "vi": "Ông",
       "tay": "Pủ"
@@ -3096,7 +3786,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Ông nội/ngoại"
   },
   {
-    "id": 280,
+    "id": 321,
     "translations": {
       "vi": "Bà",
       "tay": "Mả"
@@ -3105,15 +3795,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Bà nội/ngoại"
   },
   {
-    "id": 281,
-    "translations": {
-      "vi": "Bạn bè",
-      "tay": "Bẳn"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 282,
+    "id": 322,
     "translations": {
       "vi": "Mặt",
       "tay": "Nả"
@@ -3121,15 +3803,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 283,
-    "translations": {
-      "vi": "Mũi",
-      "tay": "Mủ"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 284,
+    "id": 323,
     "translations": {
       "vi": "Trâu",
       "tay": "Vài"
@@ -3138,7 +3812,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Từ cơ bản"
   },
   {
-    "id": 285,
+    "id": 324,
     "translations": {
       "vi": "Cá",
       "tay": "Pja"
@@ -3146,7 +3820,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 286,
+    "id": 325,
     "translations": {
       "vi": "Gà",
       "tay": "Kai"
@@ -3154,7 +3828,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 287,
+    "id": 326,
     "translations": {
       "vi": "Lợn",
       "tay": "Mủ"
@@ -3162,7 +3836,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 288,
+    "id": 327,
     "translations": {
       "vi": "Chó",
       "tay": "Mả"
@@ -3170,7 +3844,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 289,
+    "id": 328,
     "translations": {
       "vi": "Mèo",
       "tay": "Mèo"
@@ -3179,7 +3853,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 290,
+    "id": 329,
     "translations": {
       "vi": "Voi",
       "tay": "Slướng"
@@ -3187,7 +3861,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 291,
+    "id": 330,
     "translations": {
       "vi": "Trời",
       "tay": "Fạ"
@@ -3196,7 +3870,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Từ cơ bản"
   },
   {
-    "id": 292,
+    "id": 331,
     "translations": {
       "vi": "Rừng",
       "tay": "Đung"
@@ -3205,7 +3879,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Hoặc \"đông\""
   },
   {
-    "id": 293,
+    "id": 332,
     "translations": {
       "vi": "Nước",
       "tay": "Nẩm"
@@ -3213,7 +3887,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 294,
+    "id": 333,
     "translations": {
       "vi": "Sông",
       "tay": "Slương"
@@ -3221,7 +3895,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 295,
+    "id": 334,
     "translations": {
       "vi": "Thấy",
       "tay": "Thấy"
@@ -3229,7 +3903,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 296,
+    "id": 335,
     "translations": {
       "vi": "Muốn",
       "tay": "Muốn"
@@ -3238,7 +3912,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 297,
+    "id": 336,
     "translations": {
       "vi": "To, lớn",
       "tay": "Cải"
@@ -3246,7 +3920,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 298,
+    "id": 337,
     "translations": {
       "vi": "Tốt",
       "tay": "Đay"
@@ -3254,7 +3928,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 299,
+    "id": 338,
     "translations": {
       "vi": "Nóng",
       "tay": "Nóng"
@@ -3262,7 +3936,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 300,
+    "id": 339,
     "translations": {
       "vi": "Cửa",
       "tay": "Pủa"
@@ -3270,7 +3944,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 301,
+    "id": 340,
     "translations": {
       "vi": "Bát",
       "tay": "Bát"
@@ -3279,7 +3953,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 302,
+    "id": 341,
     "translations": {
       "vi": "Xanh (lá)",
       "tay": "Slương"
@@ -3287,7 +3961,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 303,
+    "id": 342,
     "translations": {
       "vi": "Quả",
       "tay": "Mác"
@@ -3295,7 +3969,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 304,
+    "id": 343,
     "translations": {
       "vi": "Lá",
       "tay": "Slái"
@@ -3303,7 +3977,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 305,
+    "id": 344,
     "translations": {
       "vi": "Rễ",
       "tay": "Rả"
@@ -3311,7 +3985,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 306,
+    "id": 345,
     "translations": {
       "vi": "Yêu",
       "tay": "Slương"
@@ -3319,7 +3993,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 307,
+    "id": 346,
     "translations": {
       "vi": "Vui",
       "tay": "Dung"
@@ -3327,15 +4001,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 308,
-    "translations": {
-      "vi": "Đẹp",
-      "tay": "Đẹp"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 309,
+    "id": 347,
     "translations": {
       "vi": "Sông nước",
       "tay": "Slương nẩm"
@@ -3343,7 +4009,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 310,
+    "id": 348,
     "translations": {
       "vi": "Bầu trời",
       "tay": "Fạ vằn"
@@ -3351,7 +4017,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 311,
+    "id": 349,
     "translations": {
       "vi": "Mây",
       "tay": "Mây"
@@ -3360,7 +4026,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 312,
+    "id": 350,
     "translations": {
       "vi": "Mai",
       "tay": "Hoằn mải"
@@ -3368,7 +4034,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 313,
+    "id": 351,
     "translations": {
       "vi": "Sáng mai",
       "tay": "Slắng mải"
@@ -3376,15 +4042,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 314,
-    "translations": {
-      "vi": "Cháu",
-      "tay": "Lảu cháu"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 315,
+    "id": 352,
     "translations": {
       "vi": "Bác",
       "tay": "Bác"
@@ -3392,7 +4050,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 316,
+    "id": 353,
     "translations": {
       "vi": "Cô",
       "tay": "Cô"
@@ -3400,7 +4058,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 317,
+    "id": 354,
     "translations": {
       "vi": "Cậu",
       "tay": "Cậu"
@@ -3408,7 +4066,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 318,
+    "id": 355,
     "translations": {
       "vi": "Lưỡi",
       "tay": "Lết"
@@ -3416,15 +4074,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 319,
-    "translations": {
-      "vi": "Răng",
-      "tay": "Khản"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 320,
+    "id": 356,
     "translations": {
       "vi": "Tóc",
       "tay": "Slóc"
@@ -3432,7 +4082,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 321,
+    "id": 357,
     "translations": {
       "vi": "Nhìn",
       "tay": "Nhìn"
@@ -3440,7 +4090,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 322,
+    "id": 358,
     "translations": {
       "vi": "Ngửi",
       "tay": "Ngửi"
@@ -3448,7 +4098,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 323,
+    "id": 359,
     "translations": {
       "vi": "Nếm",
       "tay": "Nếm"
@@ -3456,7 +4106,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 324,
+    "id": 360,
     "translations": {
       "vi": "Bò",
       "tay": "Vài nho"
@@ -3465,7 +4115,7 @@ export const BASE_ENTRIES: Entry[] = [
     "notes": "Trâu nhỏ hoặc bò"
   },
   {
-    "id": 325,
+    "id": 361,
     "translations": {
       "vi": "Ngựa",
       "tay": "Mả"
@@ -3473,7 +4123,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 326,
+    "id": 362,
     "translations": {
       "vi": "Vịt",
       "tay": "Pết"
@@ -3481,7 +4131,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 327,
+    "id": 363,
     "translations": {
       "vi": "Chim",
       "tay": "Nọc"
@@ -3489,7 +4139,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 328,
+    "id": 364,
     "translations": {
       "vi": "Cây cối",
       "tay": "Mạy slái"
@@ -3497,7 +4147,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 329,
+    "id": 365,
     "translations": {
       "vi": "Quả cây",
       "tay": "Mác mạy"
@@ -3505,7 +4155,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 330,
+    "id": 366,
     "translations": {
       "vi": "Hạt",
       "tay": "Hạt"
@@ -3513,7 +4163,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 331,
+    "id": 367,
     "translations": {
       "vi": "Rễ cây",
       "tay": "Rả mạy"
@@ -3521,7 +4171,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 332,
+    "id": 368,
     "translations": {
       "vi": "Cành",
       "tay": "Cành"
@@ -3529,7 +4179,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 333,
+    "id": 369,
     "translations": {
       "vi": "Thân cây",
       "tay": "Thân mạy"
@@ -3537,7 +4187,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 334,
+    "id": 370,
     "translations": {
       "vi": "Mùa xuân",
       "tay": "Pi slới"
@@ -3545,7 +4195,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 335,
+    "id": 371,
     "translations": {
       "vi": "Mùa hè",
       "tay": "Pi hè"
@@ -3553,7 +4203,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 336,
+    "id": 372,
     "translations": {
       "vi": "Mùa thu",
       "tay": "Pi thu"
@@ -3561,7 +4211,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 337,
+    "id": 373,
     "translations": {
       "vi": "Mùa đông",
       "tay": "Pi đông"
@@ -3569,7 +4219,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 338,
+    "id": 374,
     "translations": {
       "vi": "Nắng",
       "tay": "Det"
@@ -3577,7 +4227,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 339,
+    "id": 375,
     "translations": {
       "vi": "Mát",
       "tay": "Mát"
@@ -3585,7 +4235,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 340,
+    "id": 376,
     "translations": {
       "vi": "Ẩm",
       "tay": "Ẩm"
@@ -3593,7 +4243,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 341,
+    "id": 377,
     "translations": {
       "vi": "Khô",
       "tay": "Khô"
@@ -3601,7 +4251,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 342,
+    "id": 378,
     "translations": {
       "vi": "Ướt",
       "tay": "Ướt"
@@ -3609,7 +4259,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 343,
+    "id": 379,
     "translations": {
       "vi": "Nằm",
       "tay": "Nằm"
@@ -3617,7 +4267,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 344,
+    "id": 380,
     "translations": {
       "vi": "Cầm",
       "tay": "Cầm"
@@ -3625,7 +4275,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 345,
+    "id": 381,
     "translations": {
       "vi": "Cho",
       "tay": "Cho"
@@ -3633,7 +4283,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 346,
+    "id": 382,
     "translations": {
       "vi": "Nhận",
       "tay": "Nhận"
@@ -3641,39 +4291,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 347,
-    "translations": {
-      "vi": "Trên",
-      "tay": "Nưa"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 348,
-    "translations": {
-      "vi": "Dưới",
-      "tay": "Tẩư"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 349,
-    "translations": {
-      "vi": "Trong",
-      "tay": "Trong"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 350,
-    "translations": {
-      "vi": "Ngoài",
-      "tay": "Ngoài"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 351,
+    "id": 383,
     "translations": {
       "vi": "Bên trái",
       "tay": "Bên tả"
@@ -3681,7 +4299,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 352,
+    "id": 384,
     "translations": {
       "vi": "Bên phải",
       "tay": "Bên phải"
@@ -3689,7 +4307,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 353,
+    "id": 385,
     "translations": {
       "vi": "Mười một",
       "tay": "Chịp nhất"
@@ -3697,7 +4315,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 354,
+    "id": 386,
     "translations": {
       "vi": "Hai mươi",
       "tay": "Nhì chịp"
@@ -3705,7 +4323,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 355,
+    "id": 387,
     "translations": {
       "vi": "Bánh",
       "tay": "Bánh"
@@ -3713,7 +4331,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 356,
+    "id": 388,
     "translations": {
       "vi": "Dầu",
       "tay": "Dầu"
@@ -3721,7 +4339,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 357,
+    "id": 389,
     "translations": {
       "vi": "Sữa",
       "tay": "Sữa"
@@ -3729,7 +4347,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 358,
+    "id": 390,
     "translations": {
       "vi": "Nấu",
       "tay": "Nấu"
@@ -3737,7 +4355,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 359,
+    "id": 391,
     "translations": {
       "vi": "Chiên",
       "tay": "Chien"
@@ -3745,7 +4363,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 360,
+    "id": 392,
     "translations": {
       "vi": "Luộc",
       "tay": "Luộc"
@@ -3753,7 +4371,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 361,
+    "id": 393,
     "translations": {
       "vi": "Nướng",
       "tay": "Nướng"
@@ -3761,7 +4379,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 362,
+    "id": 394,
     "translations": {
       "vi": "Tủ",
       "tay": "Tủ"
@@ -3769,7 +4387,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 363,
+    "id": 395,
     "translations": {
       "vi": "Giày",
       "tay": "Giày"
@@ -3777,7 +4395,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 364,
+    "id": 396,
     "translations": {
       "vi": "Mũ",
       "tay": "Mũ"
@@ -3785,7 +4403,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 365,
+    "id": 397,
     "translations": {
       "vi": "Đi học",
       "tay": "Pây học"
@@ -3793,7 +4411,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 366,
+    "id": 398,
     "translations": {
       "vi": "Làm việc",
       "tay": "Làm việc"
@@ -3801,7 +4419,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 367,
+    "id": 399,
     "translations": {
       "vi": "Thích",
       "tay": "Thích"
@@ -3809,7 +4427,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 368,
+    "id": 400,
     "translations": {
       "vi": "Mệt",
       "tay": "Mệt"
@@ -3817,7 +4435,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 369,
+    "id": 401,
     "translations": {
       "vi": "Khát",
       "tay": "Khát"
@@ -3825,15 +4443,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 370,
-    "translations": {
-      "vi": "Đầy",
-      "tay": "Khuôp"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 371,
+    "id": 402,
     "translations": {
       "vi": "Sợ",
       "tay": "Sợ"
@@ -3841,7 +4451,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 372,
+    "id": 403,
     "translations": {
       "vi": "Giận",
       "tay": "Giận"
@@ -3849,7 +4459,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 373,
+    "id": 404,
     "translations": {
       "vi": "Hôm nay là thứ mấy?",
       "tay": "Hoằn này thứ mấy?"
@@ -3857,7 +4467,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 374,
+    "id": 405,
     "translations": {
       "vi": "Bạn tên gì?",
       "tay": "Mẩy tên chi?"
@@ -3865,7 +4475,7 @@ export const BASE_ENTRIES: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 375,
+    "id": 406,
     "translations": {
       "vi": "Tôi yêu bạn",
       "tay": "Cau slương mẩy"

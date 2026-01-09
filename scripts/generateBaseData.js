@@ -19,8 +19,8 @@ const COLUMN_LANG_MAP = {
     'Tiếng Dao': 'dao', 'Tieng Dao': 'dao', 'Dao': 'dao', 'dao': 'dao', 'DAO': 'dao',
     // Lô Lô
     'Tiếng Lô Lô': 'lolo', 'Tieng Lo Lo': 'lolo', 'LoLo': 'lolo', 'Lo Lo': 'lolo', 'Lolo': 'lolo', 'lolo': 'lolo', 'LOLO': 'lolo',
-    // Sán Chí
-    'Tiếng Sán chí': 'sanchi', 'Tieng San chi': 'sanchi', 'San chi': 'sanchi', 'Sán chí': 'sanchi', 'SanChi': 'sanchi', 'sanchi': 'sanchi',
+    // Sán chỉ
+    'Tiếng Sán chỉ': 'sanchi', 'Tiếng Sán chỉ': 'sanchi', 'San chi': 'sanchi', 'Sán chỉ': 'sanchi', 'SanChi': 'sanchi', 'sanchi': 'sanchi',
     // Sán Chay
     'Tiếng Sán chay': 'sanchay', 'Tieng San chay': 'sanchay', 'San chay': 'sanchay', 'Sán chay': 'sanchay', 'SanChay': 'sanchay', 'sanchay': 'sanchay',
     // Sán Dìu
@@ -35,7 +35,7 @@ const DICTIONARY_PAIRS = [
     { id: 'vi_lolo', source: 'vi', target: 'lolo', label: 'Việt - Lô Lô' },
     { id: 'vi_sanchay', source: 'vi', target: 'sanchay', label: 'Việt - Sán Chay' },
     { id: 'vi_sandiu', source: 'vi', target: 'sandiu', label: 'Việt - Sán Dìu' },
-    { id: 'vi_sanchi', source: 'vi', target: 'sanchi', label: 'Việt - Sán Chí' },
+    { id: 'vi_sanchi', source: 'vi', target: 'sanchi', label: 'Việt - Sán chỉ' },
     { id: 'vi_nung', source: 'vi', target: 'nung', label: 'Việt - Nùng' },
 ];
 
@@ -50,7 +50,7 @@ function detectLangCode(columnName) {
     if (lowerCol.includes('nùng') || lowerCol.includes('nung')) return 'nung';
     if (lowerCol.includes('dao')) return 'dao';
     if (lowerCol.includes('lô lô') || lowerCol.includes('lo lo') || lowerCol.includes('lolo')) return 'lolo';
-    if (lowerCol.includes('sán chí') || lowerCol.includes('san chi') || lowerCol.includes('sanchi')) return 'sanchi';
+    if (lowerCol.includes('sán chỉ') || lowerCol.includes('san chi') || lowerCol.includes('sanchi')) return 'sanchi';
     if (lowerCol.includes('sán chay') || lowerCol.includes('san chay') || lowerCol.includes('sanchay')) return 'sanchay';
     if (lowerCol.includes('sán dìu') || lowerCol.includes('san diu') || lowerCol.includes('sandiu')) return 'sandiu';
     return null;

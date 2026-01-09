@@ -1,7 +1,7 @@
 import { Entry } from '../types';
 
 // Dictionary: Việt - Dao
-// Generated: 2025-12-16T17:29:20.758Z
+// Generated: 2025-12-20T16:18:22.457Z
 // Total entries: 200
 
 export const DICT_VI_DAO: Entry[] = [
@@ -222,7 +222,7 @@ export const DICT_VI_DAO: Entry[] = [
       "dao": "Li"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 27,
@@ -231,7 +231,7 @@ export const DICT_VI_DAO: Entry[] = [
       "dao": "Chít"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 28,
@@ -240,7 +240,7 @@ export const DICT_VI_DAO: Entry[] = [
       "dao": "Bát"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 29,
@@ -249,7 +249,7 @@ export const DICT_VI_DAO: Entry[] = [
       "dao": "Kiêu"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 30,
@@ -257,7 +257,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Mười",
       "dao": "Síp"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 31,
@@ -265,7 +266,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Trăm",
       "dao": "Bá"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 32,
@@ -273,7 +275,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Nghìn",
       "dao": "Chiên"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 1000."
   },
   {
     "id": 33,
@@ -429,7 +432,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Ngày",
       "dao": "Nhịt"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 52,
@@ -437,7 +441,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Đêm",
       "dao": "Man"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 53,
@@ -528,7 +533,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Sông/Suối",
       "dao": "Lầu"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Cũng là từ chỉ \"nước\"."
   },
   {
     "id": 64,
@@ -544,7 +550,8 @@ export const DICT_VI_DAO: Entry[] = [
       "vi": "Trời/Thiên",
       "dao": "Thin"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Chỉ bầu trời, hoặc Trời."
   },
   {
     "id": 66,

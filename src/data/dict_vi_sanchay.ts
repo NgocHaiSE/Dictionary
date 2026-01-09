@@ -1,7 +1,7 @@
 import { Entry } from '../types';
 
 // Dictionary: Việt - Sán Chay
-// Generated: 2025-12-16T17:29:20.762Z
+// Generated: 2025-12-20T16:18:22.461Z
 // Total entries: 198
 
 export const DICT_VI_SANCHAY: Entry[] = [
@@ -222,7 +222,7 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "sanchay": "Liễu"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 27,
@@ -231,7 +231,7 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "sanchay": "Chít"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 28,
@@ -240,7 +240,7 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "sanchay": "Pét"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 29,
@@ -249,7 +249,7 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "sanchay": "Cửu"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 30,
@@ -257,7 +257,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Mười",
       "sanchay": "Síp"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 31,
@@ -265,7 +266,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Trăm",
       "sanchay": "Pà"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 32,
@@ -273,7 +275,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Nghìn",
       "sanchay": "Chiên"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 1000."
   },
   {
     "id": 33,
@@ -429,7 +432,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Ngày",
       "sanchay": "Nhịt"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 52,
@@ -437,7 +441,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Đêm",
       "sanchay": "Man"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 53,
@@ -519,7 +524,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Sông/Suối",
       "sanchay": "Làu"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Cũng là từ chỉ \"nước\"."
   },
   {
     "id": 63,
@@ -535,7 +541,8 @@ export const DICT_VI_SANCHAY: Entry[] = [
       "vi": "Trời/Thiên",
       "sanchay": "Thiên"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Chỉ bầu trời, hoặc Trời."
   },
   {
     "id": 65,

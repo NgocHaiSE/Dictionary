@@ -24,7 +24,7 @@ export const LANGS: LangMeta[] = [
     { code: "nung", label: "Tiếng Nùng", ttsLang: "vi-VN" },
     { code: "dao", label: "Tiếng Dao", ttsLang: "vi-VN" },
     { code: "lolo", label: "Tiếng Lô Lô", ttsLang: "vi-VN" },
-    { code: "sanchi", label: "Tiếng Sán chí", ttsLang: "vi-VN" },
+    { code: "sanchi", label: "Tiếng Sán chỉ", ttsLang: "vi-VN" },
     { code: "sanchay", label: "Tiếng Sán chay", ttsLang: "vi-VN" },
     { code: "sandiu", label: "Tiếng Sán Dìu", ttsLang: "vi-VN" },
 ];

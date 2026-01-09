@@ -1,5 +1,5 @@
 // Auto-generated dictionary data index
-// Generated: 2025-12-16T17:29:20.766Z
+// Generated: 2025-12-20T16:18:22.466Z
 
 export { DICT_VI_TAY } from './dict_vi_tay';
 export { DICT_VI_DAO } from './dict_vi_dao';
@@ -35,7 +35,7 @@ export const DICTIONARIES: DictionaryInfo[] = [
     { id: 'vi_lolo', label: 'Việt - Lô Lô', source: 'vi', target: 'lolo', entries: DICT_VI_LOLO },
     { id: 'vi_sanchay', label: 'Việt - Sán Chay', source: 'vi', target: 'sanchay', entries: DICT_VI_SANCHAY },
     { id: 'vi_sandiu', label: 'Việt - Sán Dìu', source: 'vi', target: 'sandiu', entries: DICT_VI_SANDIU },
-    { id: 'vi_sanchi', label: 'Việt - Sán Chí', source: 'vi', target: 'sanchi', entries: DICT_VI_SANCHI },
+    { id: 'vi_sanchi', label: 'Việt - Sán chỉ', source: 'vi', target: 'sanchi', entries: DICT_VI_SANCHI },
     { id: 'vi_nung', label: 'Việt - Nùng', source: 'vi', target: 'nung', entries: DICT_VI_NUNG },
 ];
 

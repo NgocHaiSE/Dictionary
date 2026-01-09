@@ -1,7 +1,7 @@
 import { Entry } from '../types';
 
 // Dictionary: Việt - Tày
-// Generated: 2025-12-16T17:29:20.757Z
+// Generated: 2025-12-20T16:18:22.454Z
 // Total entries: 199
 
 export const DICT_VI_TAY: Entry[] = [
@@ -124,7 +124,7 @@ export const DICT_VI_TAY: Entry[] = [
       "tay": "Sáu"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"hốc\""
+    "notes": "Số đếm 6."
   },
   {
     "id": 15,
@@ -133,7 +133,7 @@ export const DICT_VI_TAY: Entry[] = [
       "tay": "Bảy"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"chết\""
+    "notes": "Số đếm 7."
   },
   {
     "id": 16,
@@ -142,7 +142,7 @@ export const DICT_VI_TAY: Entry[] = [
       "tay": "Tám"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"pết\""
+    "notes": "Số đếm 8."
   },
   {
     "id": 17,
@@ -151,7 +151,7 @@ export const DICT_VI_TAY: Entry[] = [
       "tay": "Chín"
     },
     "lemmaAudios": {},
-    "notes": "Hoặc \"cử\""
+    "notes": "Số đếm 9."
   },
   {
     "id": 18,
@@ -159,7 +159,8 @@ export const DICT_VI_TAY: Entry[] = [
       "vi": "Mười",
       "tay": "Chịp"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 10."
   },
   {
     "id": 19,
@@ -167,7 +168,8 @@ export const DICT_VI_TAY: Entry[] = [
       "vi": "Trăm",
       "tay": "Pac"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Số đếm 100."
   },
   {
     "id": 20,
@@ -267,7 +269,8 @@ export const DICT_VI_TAY: Entry[] = [
       "vi": "Ngày",
       "tay": "Hoằn"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Ngày."
   },
   {
     "id": 32,
@@ -275,7 +278,8 @@ export const DICT_VI_TAY: Entry[] = [
       "vi": "Đêm",
       "tay": "Đăm"
     },
-    "lemmaAudios": {}
+    "lemmaAudios": {},
+    "notes": "Danh từ: Đêm."
   },
   {
     "id": 33,
@@ -758,6 +762,91 @@ export const DICT_VI_TAY: Entry[] = [
   {
     "id": 92,
     "translations": {
+      "vi": "Trên",
+      "tay": "Nưa"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 93,
+    "translations": {
+      "vi": "Dưới",
+      "tay": "Tẩư"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 94,
+    "translations": {
+      "vi": "Trong",
+      "tay": "Trong"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 95,
+    "translations": {
+      "vi": "Ngoài",
+      "tay": "Ngoài"
+    },
+    "lemmaAudios": {},
+    "notes": "Chỉ vị trí."
+  },
+  {
+    "id": 96,
+    "translations": {
+      "vi": "Mũi",
+      "tay": "Mủ"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 97,
+    "translations": {
+      "vi": "Răng",
+      "tay": "Khản"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 98,
+    "translations": {
+      "vi": "Đẹp",
+      "tay": "Đẹp"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 99,
+    "translations": {
+      "vi": "Đầy",
+      "tay": "Khuôp"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 100,
+    "translations": {
+      "vi": "Bạn bè",
+      "tay": "Bẳn"
+    },
+    "lemmaAudios": {}
+  },
+  {
+    "id": 101,
+    "translations": {
+      "vi": "Cháu",
+      "tay": "Lảu cháu"
+    },
+    "lemmaAudios": {},
+    "notes": "Từ chỉ chung cháu/con."
+  },
+  {
+    "id": 102,
+    "translations": {
       "vi": "Đi đâu đấy?",
       "tay": "Pây lảu mẩy?"
     },
@@ -765,7 +854,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Câu chào phổ biến buổi sáng hoặc khi gặp nhau"
   },
   {
-    "id": 93,
+    "id": 103,
     "translations": {
       "vi": "Ăn cơm chưa?",
       "tay": "Kin cỏm chin bo?"
@@ -774,7 +863,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Câu chào hỏi thân mật hàng ngày"
   },
   {
-    "id": 94,
+    "id": 104,
     "translations": {
       "vi": "Có khỏe không?",
       "tay": "Mẩy khỏe bo?"
@@ -783,7 +872,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Hỏi thăm sức khỏe"
   },
   {
-    "id": 95,
+    "id": 105,
     "translations": {
       "vi": "Xin chào",
       "tay": "Slửa mần!"
@@ -792,7 +881,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Cách chào trang trọng hơn"
   },
   {
-    "id": 96,
+    "id": 106,
     "translations": {
       "vi": "Tạm biệt",
       "tay": "Pây kin!"
@@ -801,7 +890,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Nghĩa đen: \"Đi nhé!\""
   },
   {
-    "id": 97,
+    "id": 107,
     "translations": {
       "vi": "Người",
       "tay": "Cần"
@@ -810,7 +899,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Từ cơ bản chỉ con người"
   },
   {
-    "id": 98,
+    "id": 108,
     "translations": {
       "vi": "Bố",
       "tay": "Pỏ"
@@ -818,7 +907,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 99,
+    "id": 109,
     "translations": {
       "vi": "Anh",
       "tay": "Pì"
@@ -827,7 +916,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Anh trai"
   },
   {
-    "id": 100,
+    "id": 110,
     "translations": {
       "vi": "Chị",
       "tay": "Á"
@@ -836,7 +925,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Chị gái"
   },
   {
-    "id": 101,
+    "id": 111,
     "translations": {
       "vi": "Em",
       "tay": "Nọng"
@@ -845,7 +934,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Em trai/gái"
   },
   {
-    "id": 102,
+    "id": 112,
     "translations": {
       "vi": "Con",
       "tay": "Lảu"
@@ -854,7 +943,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Con cái"
   },
   {
-    "id": 103,
+    "id": 113,
     "translations": {
       "vi": "Ông",
       "tay": "Pủ"
@@ -863,7 +952,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Ông nội/ngoại"
   },
   {
-    "id": 104,
+    "id": 114,
     "translations": {
       "vi": "Bà",
       "tay": "Mả"
@@ -872,15 +961,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Bà nội/ngoại"
   },
   {
-    "id": 105,
-    "translations": {
-      "vi": "Bạn bè",
-      "tay": "Bẳn"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 106,
+    "id": 115,
     "translations": {
       "vi": "Mặt",
       "tay": "Nả"
@@ -888,15 +969,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 107,
-    "translations": {
-      "vi": "Mũi",
-      "tay": "Mủ"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 108,
+    "id": 116,
     "translations": {
       "vi": "Trâu",
       "tay": "Vài"
@@ -905,7 +978,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Từ cơ bản"
   },
   {
-    "id": 109,
+    "id": 117,
     "translations": {
       "vi": "Cá",
       "tay": "Pja"
@@ -913,7 +986,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 110,
+    "id": 118,
     "translations": {
       "vi": "Gà",
       "tay": "Kai"
@@ -921,7 +994,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 111,
+    "id": 119,
     "translations": {
       "vi": "Lợn",
       "tay": "Mủ"
@@ -929,7 +1002,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 112,
+    "id": 120,
     "translations": {
       "vi": "Chó",
       "tay": "Mả"
@@ -937,7 +1010,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 113,
+    "id": 121,
     "translations": {
       "vi": "Mèo",
       "tay": "Mèo"
@@ -946,7 +1019,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 114,
+    "id": 122,
     "translations": {
       "vi": "Voi",
       "tay": "Slướng"
@@ -954,7 +1027,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 115,
+    "id": 123,
     "translations": {
       "vi": "Trời",
       "tay": "Fạ"
@@ -963,7 +1036,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Từ cơ bản"
   },
   {
-    "id": 116,
+    "id": 124,
     "translations": {
       "vi": "Rừng",
       "tay": "Đung"
@@ -972,7 +1045,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Hoặc \"đông\""
   },
   {
-    "id": 117,
+    "id": 125,
     "translations": {
       "vi": "Nước",
       "tay": "Nẩm"
@@ -980,7 +1053,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 118,
+    "id": 126,
     "translations": {
       "vi": "Sông",
       "tay": "Slương"
@@ -988,7 +1061,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 119,
+    "id": 127,
     "translations": {
       "vi": "Thấy",
       "tay": "Thấy"
@@ -996,7 +1069,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 120,
+    "id": 128,
     "translations": {
       "vi": "Muốn",
       "tay": "Muốn"
@@ -1005,7 +1078,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 121,
+    "id": 129,
     "translations": {
       "vi": "To, lớn",
       "tay": "Cải"
@@ -1013,7 +1086,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 122,
+    "id": 130,
     "translations": {
       "vi": "Tốt",
       "tay": "Đay"
@@ -1021,7 +1094,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 123,
+    "id": 131,
     "translations": {
       "vi": "Nóng",
       "tay": "Nóng"
@@ -1029,7 +1102,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 124,
+    "id": 132,
     "translations": {
       "vi": "Cửa",
       "tay": "Pủa"
@@ -1037,7 +1110,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 125,
+    "id": 133,
     "translations": {
       "vi": "Bát",
       "tay": "Bát"
@@ -1046,7 +1119,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 126,
+    "id": 134,
     "translations": {
       "vi": "Xanh (lá)",
       "tay": "Slương"
@@ -1054,7 +1127,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 127,
+    "id": 135,
     "translations": {
       "vi": "Quả",
       "tay": "Mác"
@@ -1062,7 +1135,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 128,
+    "id": 136,
     "translations": {
       "vi": "Lá",
       "tay": "Slái"
@@ -1070,7 +1143,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 129,
+    "id": 137,
     "translations": {
       "vi": "Rễ",
       "tay": "Rả"
@@ -1078,7 +1151,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 130,
+    "id": 138,
     "translations": {
       "vi": "Yêu",
       "tay": "Slương"
@@ -1086,7 +1159,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 131,
+    "id": 139,
     "translations": {
       "vi": "Vui",
       "tay": "Dung"
@@ -1094,15 +1167,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 132,
-    "translations": {
-      "vi": "Đẹp",
-      "tay": "Đẹp"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 133,
+    "id": 140,
     "translations": {
       "vi": "Sông nước",
       "tay": "Slương nẩm"
@@ -1110,7 +1175,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 134,
+    "id": 141,
     "translations": {
       "vi": "Bầu trời",
       "tay": "Fạ vằn"
@@ -1118,7 +1183,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 135,
+    "id": 142,
     "translations": {
       "vi": "Mây",
       "tay": "Mây"
@@ -1127,7 +1192,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Mượn tiếng Việt"
   },
   {
-    "id": 136,
+    "id": 143,
     "translations": {
       "vi": "Mai",
       "tay": "Hoằn mải"
@@ -1135,7 +1200,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 137,
+    "id": 144,
     "translations": {
       "vi": "Sáng mai",
       "tay": "Slắng mải"
@@ -1143,15 +1208,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 138,
-    "translations": {
-      "vi": "Cháu",
-      "tay": "Lảu cháu"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 139,
+    "id": 145,
     "translations": {
       "vi": "Bác",
       "tay": "Bác"
@@ -1159,7 +1216,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 140,
+    "id": 146,
     "translations": {
       "vi": "Cô",
       "tay": "Cô"
@@ -1167,7 +1224,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 141,
+    "id": 147,
     "translations": {
       "vi": "Cậu",
       "tay": "Cậu"
@@ -1175,7 +1232,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 142,
+    "id": 148,
     "translations": {
       "vi": "Lưỡi",
       "tay": "Lết"
@@ -1183,15 +1240,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 143,
-    "translations": {
-      "vi": "Răng",
-      "tay": "Khản"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 144,
+    "id": 149,
     "translations": {
       "vi": "Tóc",
       "tay": "Slóc"
@@ -1199,7 +1248,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 145,
+    "id": 150,
     "translations": {
       "vi": "Nhìn",
       "tay": "Nhìn"
@@ -1207,7 +1256,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 146,
+    "id": 151,
     "translations": {
       "vi": "Ngửi",
       "tay": "Ngửi"
@@ -1215,7 +1264,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 147,
+    "id": 152,
     "translations": {
       "vi": "Nếm",
       "tay": "Nếm"
@@ -1223,7 +1272,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 148,
+    "id": 153,
     "translations": {
       "vi": "Bò",
       "tay": "Vài nho"
@@ -1232,7 +1281,7 @@ export const DICT_VI_TAY: Entry[] = [
     "notes": "Trâu nhỏ hoặc bò"
   },
   {
-    "id": 149,
+    "id": 154,
     "translations": {
       "vi": "Ngựa",
       "tay": "Mả"
@@ -1240,7 +1289,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 150,
+    "id": 155,
     "translations": {
       "vi": "Vịt",
       "tay": "Pết"
@@ -1248,7 +1297,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 151,
+    "id": 156,
     "translations": {
       "vi": "Chim",
       "tay": "Nọc"
@@ -1256,7 +1305,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 152,
+    "id": 157,
     "translations": {
       "vi": "Cây cối",
       "tay": "Mạy slái"
@@ -1264,7 +1313,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 153,
+    "id": 158,
     "translations": {
       "vi": "Quả cây",
       "tay": "Mác mạy"
@@ -1272,7 +1321,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 154,
+    "id": 159,
     "translations": {
       "vi": "Hạt",
       "tay": "Hạt"
@@ -1280,7 +1329,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 155,
+    "id": 160,
     "translations": {
       "vi": "Rễ cây",
       "tay": "Rả mạy"
@@ -1288,7 +1337,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 156,
+    "id": 161,
     "translations": {
       "vi": "Cành",
       "tay": "Cành"
@@ -1296,7 +1345,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 157,
+    "id": 162,
     "translations": {
       "vi": "Thân cây",
       "tay": "Thân mạy"
@@ -1304,7 +1353,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 158,
+    "id": 163,
     "translations": {
       "vi": "Mùa xuân",
       "tay": "Pi slới"
@@ -1312,7 +1361,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 159,
+    "id": 164,
     "translations": {
       "vi": "Mùa hè",
       "tay": "Pi hè"
@@ -1320,7 +1369,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 160,
+    "id": 165,
     "translations": {
       "vi": "Mùa thu",
       "tay": "Pi thu"
@@ -1328,7 +1377,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 161,
+    "id": 166,
     "translations": {
       "vi": "Mùa đông",
       "tay": "Pi đông"
@@ -1336,7 +1385,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 162,
+    "id": 167,
     "translations": {
       "vi": "Nắng",
       "tay": "Det"
@@ -1344,7 +1393,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 163,
+    "id": 168,
     "translations": {
       "vi": "Mát",
       "tay": "Mát"
@@ -1352,7 +1401,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 164,
+    "id": 169,
     "translations": {
       "vi": "Ẩm",
       "tay": "Ẩm"
@@ -1360,7 +1409,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 165,
+    "id": 170,
     "translations": {
       "vi": "Khô",
       "tay": "Khô"
@@ -1368,7 +1417,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 166,
+    "id": 171,
     "translations": {
       "vi": "Ướt",
       "tay": "Ướt"
@@ -1376,7 +1425,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 167,
+    "id": 172,
     "translations": {
       "vi": "Nằm",
       "tay": "Nằm"
@@ -1384,7 +1433,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 168,
+    "id": 173,
     "translations": {
       "vi": "Cầm",
       "tay": "Cầm"
@@ -1392,7 +1441,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 169,
+    "id": 174,
     "translations": {
       "vi": "Cho",
       "tay": "Cho"
@@ -1400,7 +1449,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 170,
+    "id": 175,
     "translations": {
       "vi": "Nhận",
       "tay": "Nhận"
@@ -1408,39 +1457,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 171,
-    "translations": {
-      "vi": "Trên",
-      "tay": "Nưa"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 172,
-    "translations": {
-      "vi": "Dưới",
-      "tay": "Tẩư"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 173,
-    "translations": {
-      "vi": "Trong",
-      "tay": "Trong"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 174,
-    "translations": {
-      "vi": "Ngoài",
-      "tay": "Ngoài"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 175,
+    "id": 176,
     "translations": {
       "vi": "Bên trái",
       "tay": "Bên tả"
@@ -1448,7 +1465,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 176,
+    "id": 177,
     "translations": {
       "vi": "Bên phải",
       "tay": "Bên phải"
@@ -1456,7 +1473,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 177,
+    "id": 178,
     "translations": {
       "vi": "Mười một",
       "tay": "Chịp nhất"
@@ -1464,7 +1481,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 178,
+    "id": 179,
     "translations": {
       "vi": "Hai mươi",
       "tay": "Nhì chịp"
@@ -1472,7 +1489,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 179,
+    "id": 180,
     "translations": {
       "vi": "Bánh",
       "tay": "Bánh"
@@ -1480,7 +1497,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 180,
+    "id": 181,
     "translations": {
       "vi": "Dầu",
       "tay": "Dầu"
@@ -1488,7 +1505,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 181,
+    "id": 182,
     "translations": {
       "vi": "Sữa",
       "tay": "Sữa"
@@ -1496,7 +1513,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 182,
+    "id": 183,
     "translations": {
       "vi": "Nấu",
       "tay": "Nấu"
@@ -1504,7 +1521,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 183,
+    "id": 184,
     "translations": {
       "vi": "Chiên",
       "tay": "Chien"
@@ -1512,7 +1529,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 184,
+    "id": 185,
     "translations": {
       "vi": "Luộc",
       "tay": "Luộc"
@@ -1520,7 +1537,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 185,
+    "id": 186,
     "translations": {
       "vi": "Nướng",
       "tay": "Nướng"
@@ -1528,7 +1545,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 186,
+    "id": 187,
     "translations": {
       "vi": "Tủ",
       "tay": "Tủ"
@@ -1536,7 +1553,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 187,
+    "id": 188,
     "translations": {
       "vi": "Giày",
       "tay": "Giày"
@@ -1544,7 +1561,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 188,
+    "id": 189,
     "translations": {
       "vi": "Mũ",
       "tay": "Mũ"
@@ -1552,7 +1569,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 189,
+    "id": 190,
     "translations": {
       "vi": "Đi học",
       "tay": "Pây học"
@@ -1560,7 +1577,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 190,
+    "id": 191,
     "translations": {
       "vi": "Làm việc",
       "tay": "Làm việc"
@@ -1568,7 +1585,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 191,
+    "id": 192,
     "translations": {
       "vi": "Thích",
       "tay": "Thích"
@@ -1576,7 +1593,7 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 192,
+    "id": 193,
     "translations": {
       "vi": "Mệt",
       "tay": "Mệt"
@@ -1584,18 +1601,10 @@ export const DICT_VI_TAY: Entry[] = [
     "lemmaAudios": {}
   },
   {
-    "id": 193,
+    "id": 194,
     "translations": {
       "vi": "Khát",
       "tay": "Khát"
-    },
-    "lemmaAudios": {}
-  },
-  {
-    "id": 194,
-    "translations": {
-      "vi": "Đầy",
-      "tay": "Khuôp"
     },
     "lemmaAudios": {}
   },

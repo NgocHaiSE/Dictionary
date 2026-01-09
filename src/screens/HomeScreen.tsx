@@ -42,7 +42,7 @@ const DICTIONARY_PAIRS: DictionaryPair[] = [
     { id: 'vi-lolo', label: 'Việt - Lô Lô', source: 'vi', target: 'lolo' },
     { id: 'vi-sanchay', label: 'Việt - Sán Chay', source: 'vi', target: 'sanchay' },
     { id: 'vi-sandiu', label: 'Việt - Sán Dìu', source: 'vi', target: 'sandiu' },
-    { id: 'vi-sanchi', label: 'Việt - Sán Chí', source: 'vi', target: 'sanchi' },
+    { id: 'vi-sanchi', label: 'Việt - Sán chỉ', source: 'vi', target: 'sanchi' },
     { id: 'vi-nung', label: 'Việt - Nùng', source: 'vi', target: 'nung' },
 ];
 
@@ -77,7 +77,16 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
     const [playingAudioId, setPlayingAudioId] = useState<number | null>(null);
     const soundRef = useRef<Audio.Sound | null>(null);
 
-    // Display languages based on swap state
+    // Filter entries that have BOTH source and target language translations
+    const entriesWithBothLangs = useMemo(() => {
+        const filtered = entries.filter(item => {
+            const hasSrc = item.translations[sourceLang] && item.translations[sourceLang]!.trim() !== '';
+            const hasDst = item.translations[targetLang] && item.translations[targetLang]!.trim() !== '';
+            return hasSrc && hasDst;
+        });
+        console.log(`[HomeScreen] Source:${sourceLang} Target:${targetLang} Total:${entries.length} Filtered:${filtered.length}`);
+        return filtered;
+    }, [entries, sourceLang, targetLang]);
     const displaySourceLang = isDisplaySwapped ? targetLang : sourceLang;
     const displayTargetLang = isDisplaySwapped ? sourceLang : targetLang;
     const displaySourceMeta = getLangMeta(displaySourceLang);
@@ -144,11 +153,11 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
                 'LoLo': 'lolo',
                 'Lo Lo': 'lolo',
                 'lolo': 'lolo',
-                // Tiếng Sán chí
-                'Tiếng Sán chí': 'sanchi',
+                // Tiếng Sán chỉ
+                'Tiếng Sán chỉ': 'sanchi',
                 'Tieng San chi': 'sanchi',
                 'San chi': 'sanchi',
-                'Sán chí': 'sanchi',
+                'Sán chỉ': 'sanchi',
                 'sanchi': 'sanchi',
                 // Tiếng Sán chay
                 'Tiếng Sán chay': 'sanchay',
@@ -234,14 +243,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
         }
     };
 
-    // Filter entries that have BOTH source and target language translations
-    const entriesWithBothLangs = useMemo(() => {
-        return entries.filter(item => {
-            const hasSrc = item.translations[sourceLang] && item.translations[sourceLang]!.trim() !== '';
-            const hasDst = item.translations[targetLang] && item.translations[targetLang]!.trim() !== '';
-            return hasSrc && hasDst;
-        });
-    }, [entries, sourceLang, targetLang]);
+
 
     // Then apply search filter
     const filtered = useMemo(() => {
